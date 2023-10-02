@@ -1,0 +1,19 @@
+hargapack = 2000
+namapack = "world_lock"
+MinItemPack = 3
+iditempack = {242}
+maxbuy = 1
+InfoLoop = true
+targetinfo = 2
+TilePNB = 5
+Istirahat = false
+JamTidur = {
+
+}
+DelayTidur = 60
+nextrandom = false
+delayworld = 10000
+delayht = 110
+delayplant = 90
+delaypnb = 195
+delayplace = 120
