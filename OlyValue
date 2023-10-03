@@ -5,7 +5,7 @@ iditempack = {242}
 maxbuy = 1
 InfoLoop = true
 targetinfo = 2
-TilePNB = 5
+TilePNB = 3
 Istirahat = false
 JamTidur = {
 
