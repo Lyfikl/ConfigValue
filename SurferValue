@@ -1,6 +1,6 @@
 hargapack = 2000
 namapack = "world_lock"
-MinItemPack = 5
+MinItemPack = 3
 iditempack = {242}
 maxbuy = 1
 InfoLoop = false
