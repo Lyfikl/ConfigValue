@@ -1,10 +1,8 @@
 hargapack = 2000
 namapack = "world_lock"
-MinItemPack = 3
+MinItemPack = 5
 iditempack = {242}
 maxbuy = 1
-InfoLoop = false
-targetinfo = 2
 TilePNB = 3
 Istirahat = false
 JamTidur = {
