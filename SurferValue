@@ -3,7 +3,7 @@ namapack = "world_lock"
 MinItemPack = 5
 iditempack = {242}
 maxbuy = 1
-TilePNB = 1
+TilePNB = 3
 Istirahat = false
 JamTidur = {
 
@@ -14,5 +14,5 @@ delayworld = 10000
 delayrandomworld = 10000
 delayht = 150
 delayplant = 130
-delaypnb = 165
+delaypnb = 195
 delayplace = 120
