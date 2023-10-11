@@ -9,7 +9,6 @@ JamTidur = {
 
 }
 DelayTidur = 60
-nextrandom = false
 delayworld = 10000
 delayht = 110
 delayplant = 90
