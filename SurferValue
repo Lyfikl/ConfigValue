@@ -3,6 +3,7 @@ namapack = "world_lock"
 MinItemPack = 3
 iditempack = {242}
 maxbuy = 1
+InfoLoop = true
 TilePNB = 3
 Istirahat = false
 JamTidur = {
