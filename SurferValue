@@ -5,6 +5,7 @@ iditempack = {242}
 maxbuy = 1
 TilePNB = 3
 setoran = 50
+Turu = true
 Istirahat = false
 JamTidur = {
 
