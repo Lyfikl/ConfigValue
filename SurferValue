@@ -4,6 +4,7 @@ MinItemPack = 3
 iditempack = {242}
 maxbuy = 1
 TilePNB = 3
+targetinfo = 2
 setoran = 50
 Turu = true
 Istirahat = false
