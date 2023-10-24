@@ -6,7 +6,6 @@ maxbuy = 1
 TilePNB = 3
 targetinfo = 2
 setoran = 70
-Turu = true
 Istirahat = false
 JamTidur = {
 
