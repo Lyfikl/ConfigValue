@@ -1,7 +1,7 @@
-hargapack = 1000
-namapack = "ssp_10_pack"
-MinItemPack = 100
-iditempack = {5706}
+hargapack = 15000
+namapack = "star_supplies"
+MinItemPack = 25
+iditempack = {6416,6520,6538,6522,6528,6540,6518,6530,6524,6536,6534,6532,6526}
 maxbuy = 1
 TilePNB = 3
 targetinfo = 2
