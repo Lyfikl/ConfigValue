@@ -1,7 +1,7 @@
-hargapack = 15000
-namapack = "star_supplies"
-MinItemPack = 25
-iditempack = {6416,6520,6538,6522,6528,6540,6518,6530,6524,6536,6534,6532,6526}
+hargapack = 20000
+namapack = "world_lock_10_pack"
+MinItemPack = 10
+iditempack = {242}
 maxbuy = 1
 TilePNB = 3
 targetinfo = 2
