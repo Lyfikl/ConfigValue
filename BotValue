@@ -9,7 +9,7 @@ setoran = 100
 Istirahat = true
 Turu = true
 JamTidur = {
-"08:00",
+"20:00",
 }
 DelayTidur = 540
 delayworld = 10000
