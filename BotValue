@@ -1,4 +1,4 @@
-hargapack = 20000
+hargapack = 12000
 namapack = "surgical_kit"
 MinItemPack = 5
 iditempack = {1270,4316,4310,1258,4312,4318,4308,1260,1268,4314,1264,1266,1262,4296}
