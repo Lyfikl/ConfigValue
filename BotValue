@@ -6,10 +6,10 @@ maxbuy = 1
 TilePNB = 1
 targetinfo = 1
 setoran = 100
-Istirahat = true
+Istirahat = false
 Turu = true
 JamTidur = {
-"20:00",
+
 }
 DelayTidur = 300
 delayworld = 10000
