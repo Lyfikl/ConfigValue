@@ -1,5 +1,5 @@
-hargapack = 12000
-namapack = "surgical_kit"
+hargapack = 2000
+namapack = "world_lock"
 MinItemPack = 5
 iditempack = {242,1270,4316,4310,1258,4312,4318,4308,1260,1268,4314,1264,1266,1262,4296}
 maxbuy = 1
