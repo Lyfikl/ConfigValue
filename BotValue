@@ -1,7 +1,7 @@
-hargapack = 2000
-namapack = "world_lock"
-MinItemPack = 5
-iditempack = {242,1270,4316,4310,1258,4312,4318,4308,1260,1268,4314,1264,1266,1262,4296}
+hargapack = 20000
+namapack = "world_lock_10_pack"
+MinItemPack = 10
+iditempack = {242}
 maxbuy = 1
 TilePNB = 1
 targetinfo = 1
