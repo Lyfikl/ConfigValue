@@ -11,7 +11,7 @@ Turu = true
 JamTidur = {
 
 }
-DelayTidur = 300
+DelayTidur = 60
 delayworld = 10000
 delayrandomworld = 20000
 nextrandom = true
