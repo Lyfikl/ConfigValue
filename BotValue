@@ -1,6 +1,6 @@
 hargapack = 5000
 namapack = "pristine_hammer"
-MinItemPack = 1
+MinItemPack = 3
 iditempack = {6238}
 maxbuy = 1
 TilePNB = 1
