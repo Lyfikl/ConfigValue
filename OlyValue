@@ -1,7 +1,7 @@
-9hargapack = 5000
-namapack = "pristine_hammer"
-MinItemPack = 3
-iditempack = {6238}
+hargapack = 20000
+namapack = "world_lock_10_pack"
+MinItemPack = 10
+iditempack = {242}
 maxbuy = 1
 TilePNB = 1
 targetinfo = 1
