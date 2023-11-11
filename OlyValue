@@ -1,4 +1,4 @@
-hargapack = 5000
+9hargapack = 5000
 namapack = "pristine_hammer"
 MinItemPack = 3
 iditempack = {6238}
@@ -14,7 +14,7 @@ JamTidur = {
 DelayTidur = 60
 delayworld = 10000
 delayrandomworld = 20000
-nextrandom = false
+nextrandom = true
 storagerandom = false
 delayht = 150
 delayplant = 150
