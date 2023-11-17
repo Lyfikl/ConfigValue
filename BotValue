@@ -1,7 +1,7 @@
 hargapack = 20000
-namapack = "world_lock_10_pack"
-MinItemPack = 10
-iditempack = {242}
+namapack = "turkey_hunting_pack"
+MinItemPack = 1
+iditempack = {10292}
 maxbuy = 1
 TilePNB = 1
 targetinfo = 2
