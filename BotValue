@@ -1,5 +1,5 @@
 hargapack = 20000
-namapack = "turkey_hunting_pack"
+namapack = "thanksgiving_bell_pack"
 MinItemPack = 1
 iditempack = {10292}
 maxbuy = 1
