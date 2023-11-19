@@ -1,6 +1,6 @@
 hargapack = 20000
 namapack = "thanksgiving_bell_pack"
-iditempack = {7342,10292}
+iditempack = {10292}
 MinItemPack = 1
 maxbuy = 1
 TilePNB = 1
