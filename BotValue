@@ -17,6 +17,6 @@ delayrandomworld = 10000
 nextrandom = true
 storagerandom = false
 delayht = 150
-delayplant = 150
+delayplant = 130
 delaypnb = 170
 delayplace = 120
