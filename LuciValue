@@ -1,5 +1,5 @@
 packList = {242}
-packName = "world_lock_10_pack"
+packName = "world_lock"
 minimumGem = 2000
-packPrice = 20000
-packLimit = 10
+packPrice = 2000
+packLimit = 5
