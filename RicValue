@@ -1,8 +1,8 @@
-packList = {242}
-packName = "world_lock_10_pack"
-minimumGem = 20000
-packPrice = 20000
-packLimit = 10
+packList = {14138}
+packName = "winterfest_calendar_2023"
+minimumGem = 65000
+packPrice = 65000
+packLimit = 1
 
 delayWarp = 10000
 
