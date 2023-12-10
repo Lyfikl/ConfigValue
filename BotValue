@@ -1,7 +1,7 @@
-hargapack = 65000
-namapack = "winterfest_calendar_2023"
-iditempack = {14138}
-MinItemPack = 1
+hargapack = 20000
+namapack = "world_lock_10_pack"
+iditempack = {242}
+MinItemPack = 10
 maxbuy = 1
 TilePNB = 1
 targetinfo = 2
