@@ -8,5 +8,5 @@ delayWarp = 10000
 
 delayHarvest = 200
 delayPlant = 200
-delayPunch = 180
-delayPlace = 120
+delayPunch = 170
+delayPlace = 130
