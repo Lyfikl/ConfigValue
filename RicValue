@@ -1,7 +1,7 @@
-packList = {242}
-packName = "world_lock_10_pack"
-minimumGem = 20000
-packPrice = 20000
+packList = {5402}
+packName = "crackers"
+minimumGem = 12500
+packPrice = 12500
 packLimit = 10
 
 delayWarp = 10000
