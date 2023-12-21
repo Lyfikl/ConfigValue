@@ -6,8 +6,8 @@ packLimit = 10
 
 delayWarp = 10000
 
-delayHarvest = 200
-delayPlant = 200
+delayHarvest = 30
+delayPlant = 10
 delayPunch = 170
 delayPlace = 130
 
