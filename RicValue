@@ -13,4 +13,4 @@ delayPlace = 130
 
 nextrandom = false
 storagerandom = true
-delayrandomworld = 15000
+delayrandomworld = 20000
