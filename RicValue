@@ -12,5 +12,5 @@ delayPunch = 170
 delayPlace = 120
 
 nextrandom = false
-storagerandom = false
+storagerandom = true
 delayrandomworld = 20000
