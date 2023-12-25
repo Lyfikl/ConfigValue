@@ -9,7 +9,7 @@ delayWarp = 20000
 delayHarvest = 70
 delayPlant = 50
 delayPunch = 170
-delayPlace = 130
+delayPlace = 120
 
 nextrandom = false
 storagerandom = true
