@@ -4,10 +4,10 @@ minimumGem = 20000
 packPrice = 20000
 packLimit = 10
 
-delayWarp = 2000
+delayWarp = 3000
 
-delayHarvest = 200
-delayPlant = 200
+delayHarvest = 50
+delayPlant = 30
 delayPunch = 170
 delayPlace = 130
 
