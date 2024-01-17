@@ -11,6 +11,6 @@ delayPlant = 200
 delayPunch = 180
 delayPlace = 130
 
-nextrandom = false
+nextrandom = true
 storagerandom = false
 delayrandomworld = 10000
