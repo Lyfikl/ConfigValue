@@ -1,8 +1,8 @@
 packList = {242}
-packName = "world_lock_10_pack"
-minimumGem = 20000
-packPrice = 20000
-packLimit = 10
+packName = "world_lock"
+minimumGem = 10000
+packPrice = 2000
+packLimit = 5
 
 delayWarp = 10000
 
@@ -11,6 +11,6 @@ delayPlant = 200
 delayPunch = 170
 delayPlace = 130
 
-nextrandom = false
+nextrandom = true
 storagerandom = false
 delayrandomworld = 10000
