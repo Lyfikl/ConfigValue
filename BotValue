@@ -20,3 +20,5 @@ delayht = 70
 delayplant = 50
 delaypnb = 195
 delayplace = 120
+
+randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
