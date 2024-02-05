@@ -2,7 +2,7 @@ packList = {242}
 packName = "world_lock_10_pack"
 minimumGem = 20000
 packPrice = 20000
-packLimit = 5
+packLimit = 10
 
 delayWarp = 10000
 
