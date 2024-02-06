@@ -12,7 +12,7 @@ JamTidur = {
 
 }
 DelayTidur = 60
-delayworld = 3000
+delayworld = 4000
 delayrandomworld = 10000
 nextrandom = true
 storagerandom = true
