@@ -12,11 +12,13 @@ JamTidur = {
 
 }
 DelayTidur = 60
-delayworld = 4000
+delayworld = 3000
 delayrandomworld = 10000
 nextrandom = true
-storagerandom = false
+storagerandom = true
 delayht = 70
 delayplant = 50
 delaypnb = 195
 delayplace = 120
+
+randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
