@@ -20,3 +20,13 @@ delayht = 110
 delayplant = 130
 delaypnb = 195
 delayplace = 120
+
+WebhookSpec = "https://discord.com/api/webhooks/1026474489023832185/nO2O2rZrOq8kAqZvAdLSxGCkuUkWNYYr903xcqcQ_oiu6ZBRNau9qzBhnyynqujUOxXa"
+HookIDSpec = "1127600731730477158"
+ShowSpecInfo = true
+
+SpecialItem = {5742,5746}
+minSpec = 99
+WorldSpec = "EVLUNAR"
+idWorldSpec = "PACK13"
+ID_AcuanDrop_Spec = 880
