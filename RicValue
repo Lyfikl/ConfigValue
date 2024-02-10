@@ -4,7 +4,7 @@ minimumGem = 10000
 packPrice = 2000
 packLimit = 5
 
-delayWarp = 10000
+delayWarp = 5000
 
 delayHarvest = 200
 delayPlant = 200
@@ -13,6 +13,6 @@ delayPlace = 130
 
 nextrandom = true
 storagerandom = true
-delayrandomworld = 10000
+delayrandomworld = 15000
 
 randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
