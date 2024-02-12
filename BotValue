@@ -25,8 +25,8 @@ WebhookSpec = "https://discord.com/api/webhooks/1026474489023832185/nO2O2rZrOq8k
 HookIDSpec = "1127600731730477158"
 ShowSpecInfo = true
 
-SpecialItem = {5742,5746}
+SpecialItem = {}
 minSpec = 99
-WorldSpec = "EVLUNAR"
-idWorldSpec = "PACK13"
+WorldSpec = ""
+idWorldSpec = ""
 ID_AcuanDrop_Spec = 880
