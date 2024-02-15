@@ -1,6 +1,6 @@
-hargapack = 2000
-namapack = "world_lock"
-iditempack = {242}
+hargapack = 7500
+namapack = "valentines"
+iditempack = {3402, 5664}
 MinItemPack = 5
 maxbuy = 5
 TilePNB = 3
@@ -14,7 +14,7 @@ JamTidur = {
 DurasiOff = 10
 DelayTidur = 60
 delayworld = 5000
-delayrandomworld = 15000
+delayrandomworld = 10000
 nextrandom = true
 storagerandom = true
 delayht = 70
@@ -26,11 +26,8 @@ WebhookSpec = "https://discord.com/api/webhooks/1026474489023832185/nO2O2rZrOq8k
 HookIDSpec = "1127600731730477158"
 ShowSpecInfo = true
 
-SpecialItem = {5742,5746}
+SpecialItem = {}
 minSpec = 99
-WorldSpec = "EVLUNAR"
-idWorldSpec = "PACK13"
+WorldSpec = ""
+idWorldSpec = ""
 ID_AcuanDrop_Spec = 880
-
-
-randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
