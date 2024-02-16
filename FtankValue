@@ -20,7 +20,7 @@ storagerandom = true
 delayht = 30
 delayplant = 20
 delaypnb = 195
-delayplace = 120
+delayplace = 110
 
 WebhookSpec = "https://discord.com/api/webhooks/1026474489023832185/nO2O2rZrOq8kAqZvAdLSxGCkuUkWNYYr903xcqcQ_oiu6ZBRNau9qzBhnyynqujUOxXa"
 HookIDSpec = "1127600731730477158"
