@@ -22,7 +22,7 @@ delaypnb = 195
 delayplace = 120
 
 WorldWL = {"EUGUDANG"}
-WorldPack = {"SUGAR1ANN","SUGAR2CNN"}
+WorldPack = {"SUGAR1ANN","SUGAR2BNN"}
 WorldSeed = {"EV1SGCNA","EV2SGCNA"}
 
 nextrandom = true
