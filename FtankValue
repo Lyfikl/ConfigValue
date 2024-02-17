@@ -1,7 +1,7 @@
 hargapack = 7500
 namapack = "valentines"
 iditempack = {3402, 5664}
-MinItemPack = 10
+MinItemPack = 5
 maxbuy = 5
 
 SimplePinghook = true
@@ -12,7 +12,6 @@ setoran = 100
 Istirahat = false
 Turu = true
 JamTidur = {
-
 }
 DelayTidur = 60
 delayworld = 3000
@@ -21,6 +20,8 @@ delayht = 70
 delayplant = 50
 delaypnb = 195
 delayplace = 120
+
+WorldWL = {"EUGUDANG"}
 
 nextrandom = true
 storagerandom = true
