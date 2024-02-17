@@ -22,6 +22,7 @@ delaypnb = 195
 delayplace = 120
 
 WorldWL = {"EUGUDANG"}
+WorldWindow= {"EUWNDW"}
 WorldPack = {"SUGAR1ANN","SUGAR2BNN"}
 WorldSeed = {"EV1SGCNA","EV2SGCNA"}
 
