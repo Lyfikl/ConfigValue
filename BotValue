@@ -3,6 +3,9 @@ namapack = "valentines"
 iditempack = {3402, 5664}
 MinItemPack = 5
 maxbuy = 5
+
+SimplePinghook = true
+
 TilePNB = 3
 targetinfo = 2
 setoran = 100
@@ -14,14 +17,14 @@ JamTidur = {
 DelayTidur = 60
 delayworld = 3000
 delayrandomworld = 10000
-nextrandom = true
-storagerandom = true
 delayht = 70
 delayplant = 50
 delaypnb = 195
 delayplace = 120
 
-SimplePinghook = true
+nextrandom = true
+storagerandom = true
+randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
 
 WebhookSpec = "https://discord.com/api/webhooks/1026474489023832185/nO2O2rZrOq8kAqZvAdLSxGCkuUkWNYYr903xcqcQ_oiu6ZBRNau9qzBhnyynqujUOxXa"
 HookIDSpec = "1127600731730477158"
