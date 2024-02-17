@@ -29,7 +29,7 @@ HookIDSpec = "1127600731730477158"
 ShowSpecInfo = true
 
 SpecialItem = {9346}
-minSpec = 50
+minSpec = 999
 WorldSpec = "EVVALEN"
 idWorldSpec = "PACK13"
 ID_AcuanDrop_Spec = 880
