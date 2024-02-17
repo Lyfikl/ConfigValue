@@ -1,7 +1,7 @@
 hargapack = 7500
 namapack = "valentines"
 iditempack = {3402, 5664}
-MinItemPack = 5
+MinItemPack = 10
 maxbuy = 5
 
 SimplePinghook = true
