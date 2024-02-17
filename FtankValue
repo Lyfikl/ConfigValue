@@ -23,7 +23,7 @@ delayplace = 120
 
 WorldWL = {"EUGUDANG"}
 WorldPack = {"SUGAR1ANN","SUGAR2CNN"}
-WorldSeed = {"BETA1CNN","BETA2CNN"}
+WorldSeed = {"BETA1CNN","BETA2BNN"}
 
 nextrandom = true
 storagerandom = true
