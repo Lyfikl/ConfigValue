@@ -5,7 +5,7 @@ MinItemPack = 5
 maxbuy = 5
 
 SimplePinghook = true
-DurasiWorldPNB = 99999
+DurasiWorldPNB = 120
 
 TilePNB = 3
 targetinfo = 2
