@@ -22,6 +22,8 @@ delayplant = 50
 delaypnb = 195
 delayplace = 120
 
+WorldWL = {"EUWL1ANN","EUWL2ANN"}
+
 nextrandom = true
 storagerandom = true
 randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
