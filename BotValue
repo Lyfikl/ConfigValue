@@ -28,8 +28,8 @@ nextrandom = true
 storagerandom = true
 randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
 
-WebhookSpec = "https://discord.com/api/webhooks/1026474489023832185/nO2O2rZrOq8kAqZvAdLSxGCkuUkWNYYr903xcqcQ_oiu6ZBRNau9qzBhnyynqujUOxXa"
-HookIDSpec = "1127600731730477158"
+WebhookSpec = ""
+HookIDSpec = ""
 ShowSpecInfo = true
 
 SpecialItem = {9346}
