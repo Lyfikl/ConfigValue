@@ -25,13 +25,3 @@ delayplace = 120
 nextrandom = true
 storagerandom = true
 randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","MEIZNWK","CBEUWKZ","YNEOXMA","DJEODNW","TBSKWMS","NOERLGH","DEZSKMB"}
-
-WebhookSpec = ""
-HookIDSpec = ""
-ShowSpecInfo = true
-
-SpecialItem = {9346}
-minSpec = 999
-WorldSpec = ""
-idWorldSpec = ""
-ID_AcuanDrop_Spec = 880
