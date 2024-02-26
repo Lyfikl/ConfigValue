@@ -1,11 +1,11 @@
-hargapack = 7500
-namapack = "valentines"
-iditempack = {3402, 5664}
-MinItemPack = 5
+hargapack = 2000
+namapack = "world_lock"
+iditempack = {242}
+MinItemPack = 2
 maxbuy = 5
 
 SimplePinghook = true
-DurasiWorldPNB = 180
+DurasiWorldPNB = 99999
 
 TilePNB = 3
 targetinfo = 2
