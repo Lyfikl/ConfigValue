@@ -6,7 +6,7 @@ maxbuy = 5
 
 SimplePinghook = true
 DurasiWorldPNB = 99999
-MinBW = 10000
+MinBW = 90000
 
 TilePNB = 3
 targetinfo = 2
