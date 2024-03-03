@@ -5,7 +5,6 @@ MinItemPack = 5
 maxbuy = 5
 
 DurasiWorldPNB = 99999
-MinBW = 90000
 
 TilePNB = 3
 targetinfo = 2
