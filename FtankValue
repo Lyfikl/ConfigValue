@@ -12,8 +12,7 @@ targetinfo = 2
 setoran = 100
 Istirahat = false
 Turu = true
-JamTidur = {
-}
+JamTidur = {}
 DelayTidur = 60
 delayworld = 10000
 delayrandomworld = 10000
