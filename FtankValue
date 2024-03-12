@@ -22,5 +22,5 @@ delaypnb = 195
 delayplace = 120
 
 nextrandom = false
-storagerandom = false
+storagerandom = true
 randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","CBEUWKZ","YNEOXMA","DJEODNW","CGHYADK","JNDAWCH","FUGCTMN","LOKDSEH"}
