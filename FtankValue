@@ -21,6 +21,6 @@ delayplant = 90
 delaypnb = 195
 delayplace = 120
 
-nextrandom = false
+nextrandom = true
 storagerandom = true
 randomworld = {"HSIWMDN","BSIWMZK","KWNSOWG","BIWMXPA","CBEUWKZ","YNEOXMA","DJEODNW","CGHYADK","JNDAWCH","FUGCTMN","LOKDSEH"}
