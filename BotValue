@@ -1,12 +1,13 @@
-hargapack = 20000
-namapack = "world_lock_10_pack"
-iditempack = {242}
-MinItemPack = 10
+
+hargapack = 2000
+namapack = "world_lock"
+iditempack = {242,528}
+MinItemPack = 5
 maxbuy = 5
 
-SimplePinghook = true
 DurasiWorldPNB = 99999
 MinBW = 90000
+LanjutPlant = true
 
 TilePNB = 3
 targetinfo = 2
@@ -17,11 +18,11 @@ JamTidur = {}
 DelayTidur = 60
 delayworld = 5000
 delayrandomworld = 10000
-delayht = 70
-delayplant = 50
+delayht = 200
+delayplant = 200
 delaypnb = 195
 delayplace = 120
 
-nextrandom = true
+nextrandom = false
 storagerandom = true
 randomworld = {"HSIWMDN","BSIWMZK","BIWMXPA","CBEUWKZ","YNEOXMA","DJEODNW","CGHYADK","JNDAWCH","LOKDSEH","WHZOAXH","POBSKNY"}
