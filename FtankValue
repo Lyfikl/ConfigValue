@@ -16,9 +16,9 @@ Turu = true
 JamTidur = {}
 DelayTidur = 60
 delayworld = 5000
-delayrandomworld = 5000
-delayht = 90
-delayplant = 70
+delayrandomworld = 10000
+delayht = 110
+delayplant = 90
 delaypnb = 195
 delayplace = 120
 
