@@ -9,7 +9,7 @@ DurasiWorldPNB = 99999
 MinBW = 90000
 LanjutPlant = true
 
-TilePNB = 5
+TilePNB = 3
 targetinfo = 2
 setoran = 100
 Istirahat = false
