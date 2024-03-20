@@ -2,7 +2,7 @@ hargapack = 2000
 namapack = "world_lock"
 iditempack = {242,528}
 MinItemPack = 10
-maxbuy = 10
+maxbuy = 5
 
 DurasiWorldPNB = 99999
 MinBW = 90000
