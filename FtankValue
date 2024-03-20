@@ -9,7 +9,7 @@ MinBW = 90000
 LanjutPlant = true
 
 TilePNB = 3
-targetinfo = 2
+targetinfo = 3
 setoran = 100
 Istirahat = false
 Turu = true
