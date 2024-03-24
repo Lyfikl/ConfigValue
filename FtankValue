@@ -1,6 +1,6 @@
 hargapack = 2000
 namapack = "world_lock"
-iditempack = {242,528}
+iditempack = {242}
 MinItemPack = 5
 maxbuy = 5
 
@@ -18,8 +18,8 @@ JamTidur = {}
 DelayTidur = 60
 delayworld = 5000
 delayrandomworld = 10000
-delayht = 130
-delayplant = 110
+delayht = 150
+delayplant = 130
 delaypnb = 195
 delayplace = 120
 
