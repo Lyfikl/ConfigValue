@@ -11,7 +11,7 @@ target_block = 190
 
 TilePNB = 3
 targetinfo = 3
-setoran = 100
+setoran = 150
 Istirahat = false
 Turu = true
 JamTidur = {}
