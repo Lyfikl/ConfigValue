@@ -6,7 +6,7 @@ maxbuy = 10
 
 DurasiWorldPNB = 99999
 MinBW = 90000
-LanjutPlant = true
+LanjutPlant = false
 target_block = 190
 
 TilePNB = 3
