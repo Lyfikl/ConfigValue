@@ -1,28 +1,29 @@
 
 hargapack = 2000
 namapack = "world_lock"
-iditempack = {242,528}
-MinItemPack = 5
+iditempack = {242}
+MinItemPack = 10
 maxbuy = 10
 
 DurasiWorldPNB = 99999
 MinBW = 90000
-LanjutPlant = true
+LanjutPlant = false
+target_block = 190
 
 TilePNB = 3
 targetinfo = 3
-setoran = 100
+setoran = 150
 Istirahat = false
 Turu = true
 JamTidur = {}
 DelayTidur = 60
 delayworld = 5000
 delayrandomworld = 10000
-delayht = 150
-delayplant = 130
+delayht = 110
+delayplant = 90
 delaypnb = 195
 delayplace = 120
 
 nextrandom = false
 storagerandom = true
-randomworld = {"HSIWMDN","BSIWMZK","BIWMXPA","CBEUWKZ","YNEOXMA","DJEODNW","CGHYADK","JNDAWCH","LOKDSEH","WHZOAXH","POBSKNY"}
+randomworld = {"HSIWMDN","BSIWMZK","BIWMXPA","CBEUWKZ","DJEODNW","CGHYADK","KUJTMHO","MZEROKR","TSKBABD","XJCCOQK","OTPIUNW"}
