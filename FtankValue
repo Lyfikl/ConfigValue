@@ -17,12 +17,12 @@ Turu = true
 JamTidur = {}
 DelayTidur = 60
 delayworld = 5000
-delayrandomworld = 10000
+delayrandomworld = 20000
 delayht = 150
 delayplant = 130
 delaypnb = 195
 delayplace = 120
 
-nextrandom = true
-storagerandom = false
+nextrandom = false
+storagerandom = true
 randomworld = {"HSIWMDN","BSIWMZK","BIWMXPA","CBEUWKZ","DJEODNW","CGHYADK","KUJTMHO","MZEROKR","TSKBABD","XJCCOQK","OTPIUNW"}
