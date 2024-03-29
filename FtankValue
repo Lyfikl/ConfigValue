@@ -1,7 +1,7 @@
-hargapack = 25000
-namapack = "ubiweek_item_ubisoft_chest"
+hargapack = 2000
+namapack = "world_lock"
 iditempack = {242,13160}
-MinItemPack = 1
+MinItemPack = 5
 maxbuy = 10
 
 DurasiWorldPNB = 99999
