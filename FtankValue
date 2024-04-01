@@ -17,9 +17,9 @@ Turu = true
 JamTidur = {"01:30"}
 DelayTidur = 90
 delayworld = 5000
-delayrandomworld = 15000
-delayht = 190
-delayplant = 170
+delayrandomworld = 20000
+delayht = 65
+delayplant = 50
 delaypnb = 195
 delayplace = 120
 
