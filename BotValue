@@ -5,7 +5,7 @@ iditempack = {242}
 MinItemPack = 10
 maxbuy = 10
 
-DurasiWorldPNB = 99999
+DurasiWorldPNB = 9999999
 MinBW = 90000
 LanjutPlant = false
 target_block = 190
