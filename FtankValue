@@ -20,8 +20,8 @@ delayworld = 5000
 delayrandomworld = 10000
 delayht = 130
 delayplant = 110
-delaypnb = 185
-delayplace = 110
+delaypnb = 195
+delayplace = 120
 
 nextrandom = false
 storagerandom = true
