@@ -8,7 +8,7 @@ DurasiWorldPNB = 99999
 MinBW = 90000
 LanjutPlant = true
 target_block = 190
-HW_Exit = false
+HW_Exit = true
 
 TilePNB = 3
 targetinfo = 3
