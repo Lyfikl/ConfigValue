@@ -30,7 +30,7 @@ JamTidur = {
 "23:00",
 }
 DelayTidur = 10
-delayworld = 3000
+delayworld = 5000
 delayrandomworld = 10000
 delayht = 65
 delayplant = 50
