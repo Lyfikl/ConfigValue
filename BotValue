@@ -8,7 +8,7 @@ DurasiWorldPNB = 9999999
 MinBW = 90000
 LanjutPlant = false
 target_block = 190
-HW_Exit = false
+HW_Exit = true
 
 TilePNB = 3
 targetinfo = 3
@@ -30,7 +30,7 @@ JamTidur = {
 "23:00",
 }
 DelayTidur = 10
-delayworld = 3000
+delayworld = 5000
 delayrandomworld = 10000
 delayht = 65
 delayplant = 50
