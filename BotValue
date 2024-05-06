@@ -1,6 +1,6 @@
-hargapack = 30000
-namapack = "pinata_value_pack_red"
-iditempack = {722,9616}
+hargapack = 20000
+namapack = "world_lock_10_pack"
+iditempack = {242}
 MinItemPack = 5
 maxbuy = 10
 
