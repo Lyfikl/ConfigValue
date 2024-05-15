@@ -13,10 +13,12 @@ HW_Exit = false
 TilePNB = 3
 targetinfo = 3
 setoran = 150
-Istirahat = false
+Istirahat = true
 Turu = true
-JamTidur = {}
-DelayTidur = 90
+JamTidur = {
+"17:00",
+}
+DelayTidur = 60
 delayworld = 3000
 delayrandomworld = 10000
 delayht = 130
