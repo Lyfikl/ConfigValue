@@ -18,8 +18,8 @@ JamTidur = {}
 DelayTidur = 60
 delayworld = 5000
 delayrandomworld = 10000
-delayht = 130
-delayplant = 110
+delayht = 90
+delayplant = 70
 delaypnb = 195
 delayplace = 115
 
