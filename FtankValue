@@ -13,7 +13,7 @@ HW_Exit = false
 TilePNB = 3
 targetinfo = 3
 setoran = 150
-Istirahat = true
+Istirahat = false
 Turu = true
 JamTidur = {
 "17:00",
