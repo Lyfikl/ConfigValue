@@ -6,7 +6,6 @@ maxbuy = 5
 
 DurasiWorldPNB = 99999
 MinBW = 90000
-target_block = 190
 
 setoran = 150
 Istirahat = false
