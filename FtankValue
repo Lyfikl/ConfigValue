@@ -8,7 +8,6 @@ DurasiWorldPNB = 99999
 MinBW = 90000
 target_block = 190
 
-targetinfo = 3
 setoran = 150
 Istirahat = false
 Turu = true
