@@ -1,21 +1,14 @@
-hargapack = 20000
-namapack = "world_lock_10_pack"
+hargapack = 10000
+namapack = "world_lock"
 iditempack = {242}
 MinItemPack = 5
-maxbuy = 5
+maxbuy = 10
 
-DurasiWorldPNB = 99999
-MinBW = 90000
-target_block = 190
-
-targetinfo = 3
-setoran = 150
 Istirahat = false
 Turu = true
 JamTidur = {}
 DelayTidur = 60
-delayworld = 5000
-delayrandomworld = 10000
+
 delayht = 150
 delayplant = 130
 delaypnb = 195
