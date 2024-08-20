@@ -4,11 +4,6 @@ iditempack = {242}
 MinItemPack = 5
 maxbuy = 10
 
-Istirahat = false
-Turu = true
-JamTidur = {}
-DelayTidur = 60
-
 delayht = 150
 delayplant = 130
 delaypnb = 195
