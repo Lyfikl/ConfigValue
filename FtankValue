@@ -9,8 +9,8 @@ delayplant = 200
 delaypnb = 170
 delayplace = 125
 
-DelayRecon = 30000
-delayrandomworld = 15000
+DelayRecon = 60000
+delayrandomworld = 20000
 TilePNB = 1
 
 nextrandom = false
