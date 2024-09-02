@@ -11,6 +11,7 @@ delayplace = 125
 
 DelayRecon = 60000
 delayrandomworld = 20000
+DurasiWorldPNB = 720
 TilePNB = 1
 
 nextrandom = false
