@@ -10,6 +10,7 @@ delaypnb = 195
 delayplace = 115
 
 DelayRecon = 30000
+delayrandomworld = 15000
 
 nextrandom = false
 storagerandom = true
