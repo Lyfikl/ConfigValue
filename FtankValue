@@ -6,13 +6,13 @@ maxbuy = 10
 
 delayht = 175
 delayplant = 175
-delaypnb = 200
-delayplace = 130
+delaypnb = 175
+delayplace = 115
 
 DelayRecon = 60000
 delayrandomworld = 10000
 DurasiWorldPNB = 720
-TilePNB = 3
+TilePNB = 1
 
 nextrandom = false
 storagerandom = true
