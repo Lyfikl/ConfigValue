@@ -4,6 +4,7 @@ iditempack = {242,1828}
 MinItemPack = 5
 maxbuy = 10
 
+ShowSpecInfo = true
 SpecialItem = {1058,1094,1096,1098}
 minSpec = 100
 
@@ -13,7 +14,7 @@ delaypnb = 195
 delayplace = 125
 
 DelayRecon = 60000
-delayrandomworld = 20000
+delayrandomworld = 25000
 DurasiWorldPNB = 9999999
 TilePNB = 3
 
