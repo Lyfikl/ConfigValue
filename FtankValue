@@ -5,7 +5,7 @@ MinItemPack = 5
 maxbuy = 10
 
 SpecialItem = {1058,1094,1096,1098}
-minSpec = 200
+minSpec = 100
 
 delayht = 175
 delayplant = 175
