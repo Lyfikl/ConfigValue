@@ -4,6 +4,9 @@ iditempack = {242,1828}
 MinItemPack = 5
 maxbuy = 10
 
+SpecialItem = {1058,1094,1096,1098}
+minSpec = 200
+
 delayht = 175
 delayplant = 175
 delaypnb = 195
