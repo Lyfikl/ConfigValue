@@ -8,14 +8,14 @@ ShowSpecInfo = true
 SpecialItem = {1058,1094,1096,1098}
 minSpec = 100
 
-delayht = 175
-delayplant = 175
+delayht = 200
+delayplant = 200
 delaypnb = 195
 delayplace = 125
 
 DelayRecon = 60000
 delayrandomworld = 20000
-delayworld = 10000
+delayworld = 7000
 DurasiWorldPNB = 9999999
 TilePNB = 3
 
