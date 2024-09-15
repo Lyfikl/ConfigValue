@@ -19,6 +19,10 @@ delayworld = 10000
 DurasiWorldPNB = 9999999
 TilePNB = 3
 
+delaydrop = 3000
+delaytrash = 3000
+DontTrash = {1058,1094,1096,1098}
+
 nextrandom = false
 storagerandom = true
 randomworld = {"BUYHANDS","GEIGER","BLOCKMO","BUYWEATHER","BUYWING","BUYCLOTH","BUYMEGA","GROCERY","BFGB","WRENCHXXL","BUYNECK"}
