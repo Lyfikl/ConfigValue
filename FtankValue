@@ -6,7 +6,7 @@ maxbuy = 10
 
 ShowSpecInfo = true
 SpecialItem = {1058,1094,1096,1098}
-minSpec = 50
+minSpec = 10
 
 delayht = 200
 delayplant = 200
