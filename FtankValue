@@ -18,6 +18,7 @@ delayrandomworld = 20000
 DurasiWorldPNB = 9999999
 TilePNB = 3
 
+TakePickaxe = true
 DontTrash = {1058,1094,1096,1098}
 
 nextrandom = false
