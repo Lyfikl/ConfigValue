@@ -21,9 +21,9 @@ TilePNB = 3
 DontTrash = {}
 TakePickaxe = false
 
-Istirahat = true
+Istirahat = false
 JamTidur = {"14:40","18:40","19:40"}
-DelayTidur = 40
+DelayTidur = 30
 
 nextrandom = false
 storagerandom = true
