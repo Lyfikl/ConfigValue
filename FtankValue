@@ -21,6 +21,10 @@ TilePNB = 3
 DontTrash = {1058,1094,1096,1098}
 TakePickaxe = false
 
+Istirahat = true
+JamTidur = {"14:40","18:40","19:40"}
+DelayTidur = 30
+
 nextrandom = false
 storagerandom = true
 randomworld = {"BUYHANDS","GEIGER","BLOCKMO","BUYWEATHER","PEMANCINGAN","BUYWING","BUYCLOTH","BFGB","BUYMEGA","GROCERY","WRENCHXXL","BUYNECK"}
