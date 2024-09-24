@@ -18,7 +18,6 @@ delayrandomworld = 20000
 DurasiWorldPNB = 9999999
 TilePNB = 3
 
-DontTrash = {}
 TakePickaxe = false
 
 Istirahat = false
