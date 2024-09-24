@@ -20,7 +20,7 @@ TilePNB = 3
 
 TakePickaxe = true
 
-Istirahat = false
+Istirahat = true
 JamTidur = {"12:40","17:40"}
 DelayTidur = 160
 
