@@ -18,7 +18,7 @@ delayrandomworld = 20000
 DurasiWorldPNB = 9999999
 TilePNB = 3
 
-TakePickaxe = true
+TakePickaxe = false
 
 Istirahat = true
 JamTidur = {"12:40","17:40"}
