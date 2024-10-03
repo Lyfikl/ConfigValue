@@ -14,7 +14,7 @@ delaypnb = 195
 delayplace = 115
 
 DelayRecon = 60000
-delayrandomworld = 20000
+delayrandomworld = 10000
 DurasiWorldPNB = 9999999
 TilePNB = 3
 
