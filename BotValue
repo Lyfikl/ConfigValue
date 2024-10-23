@@ -19,7 +19,6 @@ DurasiWorldPNB = 9999999
 TilePNB = 3
 
 TakePickaxe = false
-
 Istirahat = false
 JamTidur = {}
 DelayTidur = 165
