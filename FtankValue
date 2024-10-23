@@ -19,8 +19,6 @@ DurasiWorldPNB = 9999999
 TilePNB = 3
 
 TakePickaxe = false
-DontTrash = {242}
-
 Istirahat = false
 JamTidur = {"12:35","17:35"}
 DelayTidur = 165
