@@ -11,7 +11,7 @@ minSpec = 100
 delayht = 75
 delayplant = 75
 delaypnb = 195
-delayplace = 115
+delayplace = 150
 
 DelayRecon = 60000
 delayrandomworld = 10000
