@@ -1,0 +1,26 @@
+hargapack = 20000
+namapack = "world_lock_10_pack"
+iditempack = {242}
+MinItemPack = 10
+maxbuy = 2
+
+ShowSpecInfo = false
+SpecialItem = {}
+minSpec = 100
+
+delayht = 200
+delayplant = 200
+delaypnb = 200
+delayplace = 150
+
+DelayRecon = 30000
+delayrandomworld = 10000
+
+TakePickaxe = false
+Istirahat = false
+JamTidur = {}
+DelayTidur = 165
+
+nextrandom = false
+storagerandom = true
+randomworld = {"MERJASA","TOKOLELANG","BUYNECK","GROCERY","BUYCLOTH","BERBAGI","BUYSEED","BLOCKMO","INDOMART","BUYWEATHER","BFGWKWK","RECIPE","PEMANCINGAN","BUYWING","BFGB","BUYBLAST","SEWAJASA","NONGKI","BUYMEGA","GEIGER","NGARTIS","BUYHANDS","WRENCHXXL"}
