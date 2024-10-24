@@ -16,7 +16,6 @@ delayplace = 150
 DelayRecon = 30000
 delayrandomworld = 10000
 DurasiWorldPNB = 9999999
-TilePNB = 3
 
 TakePickaxe = false
 Istirahat = false
