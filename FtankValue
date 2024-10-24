@@ -10,7 +10,7 @@ minSpec = 100
 
 delayht = 75
 delayplant = 75
-delaypnb = 195
+delaypnb = 200
 delayplace = 150
 
 DelayRecon = 30000
