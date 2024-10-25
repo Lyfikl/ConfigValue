@@ -14,7 +14,7 @@ delaypnb = 200
 delayplace = 150
 
 DelayRecon = 30000
-delayrandomworld = 10000
+delayrandomworld = 20000
 
 TakePickaxe = false
 Istirahat = false
