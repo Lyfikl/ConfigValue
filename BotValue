@@ -20,7 +20,7 @@ DurasiWorldPNB = 9999999
 
 TakePickaxe = false
 Istirahat = false
-JamTidur = {}
+JamTidur = {"12:35","17:35"}
 DelayTidur = 165
 
 nextrandom = false
