@@ -13,7 +13,7 @@ delayplant = 75
 delaypnb = 200
 delayplace = 150
 
-DelayRecon = 30000
+DelayRecon = 60000
 delayrandomworld = 20000
 delayworld = 3000
 DurasiWorldPNB = 9999999
