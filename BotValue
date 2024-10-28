@@ -2,7 +2,7 @@ hargapack = 2000
 namapack = "world_lock"
 iditempack = {242}
 MinItemPack = 5
-maxbuy = 5
+maxbuy = 2
 
 ShowSpecInfo = false
 SpecialItem = {}
@@ -13,8 +13,11 @@ delayplant = 200
 delaypnb = 200
 delayplace = 150
 
-DelayRecon = 60000
-delayrandomworld = 20000
+DelayRecon = 90000
+DelayBadServer = 120000
+delayworld = 10000
+
+delayrandomworld = 15000
 DurasiWorldPNB = 9999999
 
 TakePickaxe = false
