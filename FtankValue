@@ -13,7 +13,7 @@ delayplant = 200
 delaypnb = 200
 delayplace = 150
 
-DelayRecon = 120000
+DelayRecon = 2000
 DelayBadServer = 120000
 delayworld = 10000
 
