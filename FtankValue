@@ -15,7 +15,7 @@ delayplace = 150
 
 DelayRecon = 50000
 DelayBadServer = 60000
-delayworld = 5000
+delayworld = 10000
 
 delayrandomworld = 20000
 DurasiWorldPNB = 9999999
