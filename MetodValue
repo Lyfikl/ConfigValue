@@ -2,7 +2,7 @@ hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
 MinItemPack = 10
-maxbuy = 2
+maxbuy = 1
 
 ShowSpecInfo = false
 SpecialItem = {}
