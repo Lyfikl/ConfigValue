@@ -19,11 +19,7 @@ delayworld = 10000
 
 delayrandomworld = 15000
 DurasiWorldPNB = 9999999
-
 TakePickaxe = false
-Istirahat = false
-JamTidur = {}
-DelayTidur = 165
 
 nextrandom = false
 storagerandom = true
