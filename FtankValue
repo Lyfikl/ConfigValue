@@ -14,10 +14,10 @@ delaypnb = 200
 delayplace = 150
 
 DelayRecon = 60000
-DelayBadServer = 60000
+DelayBadServer = 70000
 delayworld = 7000
 
-delayrandomworld = 15000
+delayrandomworld = 20000
 DurasiWorldPNB = 9999999
 TakePickaxe = false
 
