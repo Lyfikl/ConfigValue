@@ -11,11 +11,11 @@ minSpec = 100
 delayht = 100
 delayplant = 100
 delaypnb = 200
-delayplace = 150
+delayplace = 120
 
 DelayRecon = 90000
 DelayBadServer = 60000
-delayworld = 10000
+delayworld = 3000
 
 delayrandomworld = 20000
 DurasiWorldPNB = 9999999
