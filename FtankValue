@@ -14,7 +14,7 @@ delaypnb = 200
 delayplace = 150
 
 DelayRecon = 90000
-DelayBadServer = 70000
+DelayBadServer = 60000
 delayworld = 5000
 
 delayrandomworld = 20000
