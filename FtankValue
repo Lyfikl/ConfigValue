@@ -20,7 +20,7 @@ delayworld = 3000
 delayrandomworld = 30000
 DurasiWorldPNB = 9999999
 TakePickaxe = false
-TilePNB = 5
+TilePNB = 3
 
 nextrandom = false
 storagerandom = true
