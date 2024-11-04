@@ -23,7 +23,7 @@ TakePickaxe = false
 TilePNB = 5
 
 RestSchedule = true
-JadwalOff = {"07.00 - 08.00"}
+JadwalOff = {"06.50 - 08.00"}
 
 nextrandom = false
 storagerandom = true
