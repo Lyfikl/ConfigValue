@@ -8,10 +8,10 @@ ShowSpecInfo = false
 SpecialItem = {}
 minSpec = 100
 
-delayht = 400
-delayplant = 400
+delayht = 75
+delayplant = 75
 delaypnb = 200
-delayplace = 150
+delayplace = 200
 
 DelayRecon = 60000
 DelayBadServer = 90000
