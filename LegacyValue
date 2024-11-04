@@ -17,7 +17,7 @@ DelayRecon = 60000
 DelayBadServer = 90000
 delayworld = 4000
 
-delayrandomworld = 20000
+delayrandomworld = 10000
 DurasiWorldPNB = 9999999
 TakePickaxe = false
 TilePNB = 5
