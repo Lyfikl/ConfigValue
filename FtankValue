@@ -22,6 +22,9 @@ DurasiWorldPNB = 9999999
 TakePickaxe = false
 TilePNB = 5
 
+RestSchedule = true
+JadwalOff = {"07.00-08.00"}
+
 nextrandom = false
 storagerandom = true
 randomworld = {"BERBAGI","BUYHANDS","GEIGER","BLOCKMO","BUYWEATHER","PEMANCINGAN","BUYWING","BUYCLOTH","BFGB","BUYMEGA","SEWAJASA","BUYCAPE","GROCERY","WRENCHXXL","BUYNECK"}
