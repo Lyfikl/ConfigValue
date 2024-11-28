@@ -9,7 +9,7 @@ SpecialItem = {}
 minSpec = 100
 
 delayht = 200
-delayplant = 300
+delayplant = 200
 delaypnb = 200
 delayplace = 150
 
