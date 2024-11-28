@@ -8,14 +8,14 @@ ShowSpecInfo = false
 SpecialItem = {}
 minSpec = 100
 
-delayht = 300
-delayplant = 300
+delayht = 200
+delayplant = 200
 delaypnb = 200
 delayplace = 150
 
 DelayRecon = 60000
 DelayBadServer = 60000
-delayworld = 3000
+delayworld = 5000
 
 delayrandomworld = 10000
 TakePickaxe = false
