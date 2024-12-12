@@ -6,16 +6,16 @@ maxbuy = 2
 
 ShowSpecInfo = false
 SpecialItem = {}
-minSpec = 100
+minSpec = 150
 
-delayht = 100
+delayht = 150
 delayplant = 100
 delaypnb = 200
 delayplace = 150
 
 DelayRecon = 90000
 DelayBadServer = 90000
-delayworld = 3000
+delayworld = 5000
 
 delayrandomworld = 10000
 TakePickaxe = false
