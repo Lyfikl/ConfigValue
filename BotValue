@@ -11,7 +11,7 @@ minSpec = 100
 delayht = 100
 delayplant = 100
 delaypnb = 200
-delayplace = 150
+delayplace = 110
 
 DelayRecon = 90000
 DelayBadServer = 90000
