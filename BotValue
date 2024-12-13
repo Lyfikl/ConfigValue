@@ -6,24 +6,24 @@ maxbuy = 2
 
 ShowSpecInfo = false
 SpecialItem = {}
-minSpec = 100
+minSpec = 150
 
 delayht = 100
-delayplant = 100
-delaypnb = 200
+delayplant = 150
+delaypnb = 150
 delayplace = 110
 
 DelayRecon = 90000
 DelayBadServer = 90000
-delayworld = 5000
+delayworld = 3000
 
-delayrandomworld = 10000
+delayrandomworld = 5000
 TakePickaxe = false
-TilePNB = 3
+TilePNB = 5
 
 RestSchedule = true
 JadwalOff = {"07.00 - 08.00"}
 
-nextrandom = false
-storagerandom = true
+nextrandom = true
+storagerandom = false
 randomworld = {"BERBAGI","BUYNECK","GROCERY","NGARTIS","BUYCLOTH","BLOCKMO","BUYWEATHER","PEMANCINGAN","NONGKI","BUYMEGA","GEIGER","SEWAJASA","WRENCHXXL"}
