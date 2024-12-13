@@ -21,7 +21,7 @@ delayrandomworld = 5000
 TakePickaxe = false
 TilePNB = 5
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {"07.00 - 08.00","12.20 - 15.00","18.30 - 22.00"}
 
 nextrandom = true
