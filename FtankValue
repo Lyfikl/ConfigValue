@@ -15,11 +15,11 @@ delayplace = 110
 
 DelayRecon = 90000
 DelayBadServer = 90000
-delayworld = 4000
+delayworld = 3000
 
 delayrandomworld = 10000
 TakePickaxe = false
-TilePNB = 3
+TilePNB = 5
 
 RestSchedule = true
 JadwalOff = {"07.00 - 08.00"}
