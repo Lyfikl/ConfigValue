@@ -24,6 +24,6 @@ TilePNB = 5
 RestSchedule = true
 JadwalOff = {"07.00 - 08.00","12.00 - 15.00","18.30 - 22.00"}
 
-nextrandom = true
-storagerandom = false
+nextrandom = false
+storagerandom = true
 randomworld = {"BERBAGI","BUYNECK","GROCERY","NGARTIS","BUYCLOTH","BLOCKMO","BUYWEATHER","PEMANCINGAN","NONGKI","BUYMEGA","GEIGER","SEWAJASA","WRENCHXXL"}
