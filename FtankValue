@@ -15,7 +15,7 @@ delayplace = 120
 
 DelayRecon = 90000
 DelayBadServer = 90000
-delayworld = 3000
+delayworld = 5000
 
 delayrandomworld = 10000
 TakePickaxe = false
