@@ -6,7 +6,7 @@ maxbuy = 2
 
 ShowSpecInfo = false
 SpecialItem = {}
-minSpec = 150
+minSpec = 200
 
 delayht = 120
 delayplant = 150
