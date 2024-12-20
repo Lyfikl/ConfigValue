@@ -1,7 +1,7 @@
-hargapack = 2200
-namapack = "world_lock"
+hargapack = 12500
+namapack = "crackers"
 iditempack = {242}
-MinItemPack = 5
+MinItemPack = 10
 maxbuy = 2
 
 ShowSpecInfo = false
@@ -11,18 +11,20 @@ minSpec = 200
 DelayRecon = 90000
 DelayBadServer = 90000
 delayworld = 5000
+DurasiWorldPNB = 60
 
 delayht = 120
 delayplant = 150
 delaypnb = 180
 delayplace = 120
 
-delayrandomworld = 10000
+delayrandomworld = 20000
 TakePickaxe = false
-TilePNB = 5
+TilePNB = 3
 
 RestSchedule = true
-JadwalOff = {"07.00 - 08.00","12.00 - 15.00","18.30 - 22.00"}
+JadwalOff = {"07.00 - 08.00","12.00 - 15.00"}
+TimeRelogBotMatung = 15
 
 nextrandom = false
 storagerandom = true
