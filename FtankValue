@@ -18,7 +18,7 @@ delayplant = 50
 delaypnb = 130
 delayplace = 110
 
-delayrandomworld = 15000
+delayrandomworld = 10000
 TakePickaxe = false
 TilePNB = 5
 
