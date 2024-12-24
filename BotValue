@@ -23,7 +23,7 @@ delayrandomworld = 10000
 TakePickaxe = false
 TilePNB = 3
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"07.00 - 08.00","12.00 - 15.00"}
 TimeRelogBotMatung = 15
 
