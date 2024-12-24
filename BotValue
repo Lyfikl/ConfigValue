@@ -1,7 +1,8 @@
-hargapack = 20000
-namapack = "world_lock_10_pack"
-iditempack = {242,5402}
-MinItemPack = 10
+
+hargapack = 12500
+namapack = "crackers"
+iditempack = {5402,10536,10538}
+MinItemPack = 20
 maxbuy = 2
 
 ShowSpecInfo = false
@@ -13,12 +14,12 @@ DelayBadServer = 90000
 delayworld = 5000
 DurasiWorldPNB = 60
 
-delayht = 120
-delayplant = 150
-delaypnb = 180
-delayplace = 120
+delayht = 50
+delayplant = 80
+delaypnb = 130
+delayplace = 110
 
-delayrandomworld = 20000
+delayrandomworld = 10000
 TakePickaxe = false
 TilePNB = 3
 
