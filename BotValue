@@ -24,7 +24,7 @@ PrivatePNB = true
 TilePNB = 3
 
 RestSchedule = true
-JadwalOff = {"07.00 - 08.00","11.00 - 15.00","23.00 - 00.00"}
+JadwalOff = {"07.00 - 08.00","11.50 - 15.00"}
 TimeRelogBotMatung = 15
 
 nextrandom = false
