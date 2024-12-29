@@ -20,6 +20,7 @@ delayplace = 110
 
 delayrandomworld = 10000
 TakePickaxe = false
+PrivatePNB = true
 TilePNB = 3
 
 RestSchedule = true
