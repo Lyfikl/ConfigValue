@@ -13,10 +13,10 @@ DelayBadServer = 90000
 delayworld = 5000
 DurasiWorldPNB = 60
 
-delayht = 100
-delayplant = 130
+delayht = 170
+delayplant = 200
 delaypnb = 170
-delayplace = 110
+delayplace = 130
 
 delayrandomworld = 20000
 TakePickaxe = false
