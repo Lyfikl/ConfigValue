@@ -9,7 +9,7 @@ SpecialItem = {}
 minSpec = 200
 
 DelayRecon = 90000
-DelayBadServer = 120000
+DelayBadServer = 90000
 delayworld = 20000
 DurasiWorldPNB = 60
 
