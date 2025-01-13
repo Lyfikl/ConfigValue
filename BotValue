@@ -13,12 +13,12 @@ DelayBadServer = 90000
 delayworld = 30000
 DurasiWorldPNB = 60
 
-delayht = 130
-delayplant = 150
+delayht = 150
+delayplant = 180
 delaypnb = 170
-delayplace = 110
+delayplace = 130
 
-delayrandomworld = 20000
+delayrandomworld = 10000
 TakePickaxe = false
 PrivatePNB = true
 TilePNB = 3
