@@ -9,8 +9,8 @@ SpecialItem = {}
 minSpec = 200
 
 DelayRecon = 90000
-DelayBadServer = 90000
-delayworld = 20000
+DelayBadServer = 120000
+delayworld = 30000
 DurasiWorldPNB = 60
 
 delayht = 170
@@ -18,7 +18,7 @@ delayplant = 200
 delaypnb = 170
 delayplace = 130
 
-delayrandomworld = 10000
+delayrandomworld = 20000
 TakePickaxe = false
 PrivatePNB = true
 TilePNB = 3
