@@ -1,30 +1,31 @@
-hargapack = 12500
-namapack = "crackers"
-iditempack = {5402,10536,10538}
-MinItemPack = 20
-maxbuy = 2
+hargapack = 10000
+namapack = "world_lock"
+iditempack = {242}
+MinItemPack = 5
+maxbuy = 5
 
 ShowSpecInfo = false
 SpecialItem = {}
 minSpec = 200
+idVial = 8542
 
 DelayRecon = 90000
-DelayBadServer = 90000
-delayworld = 20000
+DelayBadServer = 120000
+delayworld = 30000
 DurasiWorldPNB = 60
 
-delayht = 70
-delayplant = 100
-delaypnb = 150
-delayplace = 110
+delayht = 170
+delayplant = 200
+delaypnb = 170
+delayplace = 130
 
-delayrandomworld = 10000
+delayrandomworld = 20000
 TakePickaxe = false
 PrivatePNB = true
 TilePNB = 3
 
-RestSchedule = true
-JadwalOff = {"07.00 - 08.00","11.50 - 15.00"}
+RestSchedule = false
+JadwalOff = {"07.00 - 08.00","11.50 - 15.00","19.00 - 20.00","22.00 - 23.00"}
 TimeRelogBotMatung = 15
 
 nextrandom = false
