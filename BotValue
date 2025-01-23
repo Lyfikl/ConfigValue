@@ -2,7 +2,7 @@ hargapack = 25000
 namapack = "nian_lunar_chest"
 iditempack = {13054}
 MinItemPack = 1
-maxbuy = 2
+maxbuy = 10
 
 ShowSpecInfo = true
 SpecialItem = {5742,5744}
