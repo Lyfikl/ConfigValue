@@ -6,7 +6,7 @@ maxbuy = 10
 
 ShowSpecInfo = true
 SpecialItem = {5742,5744,5746}
-minSpec = 200
+minSpec = 100
 idVial = 8542
 
 DelayRecon = 90000
