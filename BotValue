@@ -5,7 +5,7 @@ MinItemPack = 1
 maxbuy = 10
 
 ShowSpecInfo = true
-SpecialItem = {5742,5744,5746}
+SpecialItem = {5742,5746}
 minSpec = 100
 idVial = 8542
 
