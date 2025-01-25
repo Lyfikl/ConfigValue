@@ -1,7 +1,7 @@
-hargapack = 9999999
-namapack = "nian_lunar_chest"
-iditempack = {13054}
-MinItemPack = 1
+hargapack = 20000
+namapack = "cny_spray"
+iditempack = {5764}
+MinItemPack = 6
 maxbuy = 10
 
 ShowSpecInfo = true
