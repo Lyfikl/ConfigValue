@@ -1,6 +1,6 @@
 hargapack = 25000
 namapack = "nian_lunar_chest"
-iditempack = {13054}
+iditempack = {242,13054}
 MinItemPack = 1
 maxbuy = 100
 
