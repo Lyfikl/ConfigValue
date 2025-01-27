@@ -1,4 +1,4 @@
-hargapack = 25000
+hargapack = 9999999
 namapack = "nian_lunar_chest"
 iditempack = {242,13054}
 MinItemPack = 1
@@ -24,7 +24,7 @@ TakePickaxe = false
 PrivatePNB = true
 TilePNB = 3
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {"11.50 - 15.00","19.00 - 20.10","22.00 - 23.00"}
 TimeRelogBotMatung = 15
 
