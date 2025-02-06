@@ -1,0 +1,33 @@
+hargapack = 40000
+namapack = "world_lock_10_pack"
+iditempack = {202,242}
+MinItemPack = 20
+maxbuy = 100
+
+ShowSpecInfo = true
+SpecialItem = {5742,5746}
+minSpec = 80
+idVial = 8544
+
+DelayRecon = 60000
+DelayBadServer = 120000
+delayworld = 30000
+DurasiWorldPNB = 60
+
+delayht = 170
+delayplant = 190
+delaypnb = 170
+delayplace = 130
+
+delayrandomworld = 10000
+TakePickaxe = false
+PrivatePNB = true
+TilePNB = 3
+
+RestSchedule = true
+JadwalOff = {"11.50 - 15.00","19.00 - 20.10","22.00 - 23.00"}
+TimeRelogBotMatung = 15
+
+nextrandom = false
+storagerandom = true
+randomworld = {"HSIWMDN","BSIWMZK","BIWMXPA","CBEUWKZ","DJEODNW","CGHYADK","KUJTMHO","MZEROKR","TSKBABD","XJCCOQK","OTPIUNW","ALHSFPN","QMFAVMB"}
