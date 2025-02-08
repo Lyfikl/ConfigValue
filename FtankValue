@@ -1,5 +1,5 @@
 hargapack = 10000
-namapack = "world_lock_"
+namapack = "world_lock"
 iditempack = {242}
 MinItemPack = 5
 maxbuy = 10
