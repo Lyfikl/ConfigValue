@@ -1,8 +1,7 @@
-
-hargapack = 10000
-namapack = "world_lock"
-iditempack = {242}
-MinItemPack = 5
+hargapack = 15000
+namapack = "valentines"
+iditempack = {3402}
+MinItemPack = 10
 maxbuy = 10
 
 ShowSpecInfo = true
@@ -26,7 +25,7 @@ PrivatePNB = true
 TilePNB = 3
 
 RestSchedule = true
-JadwalOff = {"11.50 - 23.59"}
+JadwalOff = {"11.50 - 23.30"}
 TimeRelogBotMatung = 15
 
 nextrandom = false
