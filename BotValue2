@@ -1,6 +1,6 @@
 hargapack = 7500
 namapack = "valentines"
-iditempack = {000,3402}
+iditempack = {0,3402}
 MinItemPack = 20
 maxbuy = 100
 
