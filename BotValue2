@@ -4,14 +4,14 @@ iditempack = {0,3402}
 MinItemPack = 20
 maxbuy = 100
 
-ShowSpecInfo = true
-SpecialItem = {5742,5746}
+ShowSpecInfo = false
+SpecialItem = {}
 minSpec = 80
 idVial = 8544
 
 DelayRecon = 60000
 DelayBadServer = 120000
-delayworld = 10000
+delayworld = 20000
 DurasiWorldPNB = 60
 
 delayht = 170
