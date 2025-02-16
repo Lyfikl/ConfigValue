@@ -28,7 +28,7 @@ targettrash = 200
 DontTrash = {3402}
 
 RestSchedule = false
-JadwalOff = {"11.50 - 23.30"}
+JadwalOff = {"11.50 - 23.59"}
 TimeRelogBotMatung = 15
 
 nextrandom = false
