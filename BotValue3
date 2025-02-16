@@ -4,8 +4,8 @@ iditempack = {3402}
 MinItemPack = 10
 maxbuy = 10
 
-ShowSpecInfo = true
-SpecialItem = {5742,5746}
+ShowSpecInfo = false
+SpecialItem = {}
 minSpec = 80
 idVial = 8544
 
@@ -23,6 +23,9 @@ delayrandomworld = 10000
 TakePickaxe = true
 PrivatePNB = true
 TilePNB = 3
+
+targettrash = 200
+DontTrash = {3402}
 
 RestSchedule = true
 JadwalOff = {"11.50 - 23.30"}
