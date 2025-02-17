@@ -2,7 +2,7 @@ hargapack = 9999999
 namapack = "valentines"
 iditempack = {3402}
 MinItemPack = 5
-maxbuy = 10
+maxbuy = 100
 
 ShowSpecInfo = false
 SpecialItem = {}
