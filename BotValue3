@@ -24,7 +24,7 @@ TakePickaxe = false
 PrivatePNB = true
 TilePNB = 5
 
-targettrash = 200
+targettrash = 150
 DontTrash = {3402}
 
 RestSchedule = true
