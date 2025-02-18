@@ -1,7 +1,7 @@
 hargapack = 7500
 namapack = "valentines"
 iditempack = {3402}
-MinItemPack = 5
+MinItemPack = 10
 maxbuy = 100
 
 ShowSpecInfo = false
