@@ -12,7 +12,7 @@ idVial = 8544
 DelayRecon = 60000
 DelayBadServer = 180000
 delayworld = 20000
-DurasiWorldPNB = 9999999
+DurasiWorldPNB = 60
 
 delayht = 170
 delayplant = 190
