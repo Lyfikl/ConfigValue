@@ -1,8 +1,8 @@
-hargapack = 7500
-namapack = "valentines"
-iditempack = {0,3402}
-MinItemPack = 20
-maxbuy = 100
+hargapack = 20000
+namapack = "world_lock_10_pack"
+iditempack = {242,3402}
+MinItemPack = 10
+maxbuy = 10
 
 ShowSpecInfo = false
 SpecialItem = {}
