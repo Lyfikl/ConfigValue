@@ -14,8 +14,8 @@ DelayBadServer = 90000
 delayworld = 20000
 DurasiWorldPNB = 60
 
-delayht = 170
-delayplant = 190
+delayht = 110
+delayplant = 130
 delaypnb = 170
 delayplace = 130
 
