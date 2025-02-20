@@ -16,7 +16,7 @@ DurasiWorldPNB = 9999999
 
 delayht = 170
 delayplant = 190
-delaypnb = 170
+delaypnb = 190
 delayplace = 130
 
 delayrandomworld = 10000
