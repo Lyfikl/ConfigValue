@@ -27,7 +27,7 @@ TilePNB = 3
 targettrash = 150
 DontTrash = {}
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"11.40 - 23.50"}
 TimeRelogBotMatung = 15
 
