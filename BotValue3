@@ -22,7 +22,7 @@ delayplace = 130
 delayrandomworld = 20000
 TakePickaxe = true
 PrivatePNB = true
-TilePNB = 5
+TilePNB = 4
 
 targettrash = 150
 DontTrash = {}
