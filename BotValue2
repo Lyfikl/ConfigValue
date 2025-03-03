@@ -29,7 +29,6 @@ DontTrash = {}
 
 RestSchedule = false
 JadwalOff = {"12.00 - 23.50","00.00 - 02.00"}
-TimeRelogBotMatung = 15
 
 nextrandom = false
 storagerandom = true
