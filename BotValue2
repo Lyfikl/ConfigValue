@@ -20,7 +20,7 @@ delaypnb = 190
 delayplace = 130
 
 delayrandomworld = 10000
-TakePickaxe = true
+TakePickaxe = false
 PrivatePNB = true
 TilePNB = 4
 
