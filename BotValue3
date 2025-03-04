@@ -9,8 +9,8 @@ SpecialItem = {}
 minSpec = 80
 idVial = 8544
 
-DelayRecon = 30000
-DelayBadServer = 30000
+DelayRecon = 120000
+DelayBadServer = 120000
 delayworld = 10000
 DurasiWorldPNB = 9999999
 
