@@ -30,6 +30,6 @@ DontTrash = {}
 RestSchedule = true
 JadwalOff = {"12.00 - 23.59","00.01 - 03.00"}
 
-nextrandom = true
-storagerandom = false
+nextrandom = false
+storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
