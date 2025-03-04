@@ -27,7 +27,7 @@ TilePNB = 3
 targettrash = 150
 DontTrash = {}
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"12.00 - 23.59","00.01 - 03.00"}
 
 nextrandom = false
