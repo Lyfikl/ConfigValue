@@ -9,25 +9,25 @@ SpecialItem = {}
 minSpec = 80
 idVial = 8544
 
-DelayRecon = 90000
+DelayRecon = 60000
 DelayBadServer = 90000
-delayworld = 20000
+delayworld = 10000
 DurasiWorldPNB = 9999999
 
 delayht = 90
 delayplant = 110
-delaypnb = 170
-delayplace = 130
+delaypnb = 180
+delayplace = 110
 
-delayrandomworld = 20000
-TakePickaxe = false
+delayrandomworld = 10000
+TakePickaxe = true
 PrivatePNB = true
-TilePNB = 3
+TilePNB = 4
 
 targettrash = 150
 DontTrash = {}
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {"12.00 - 23.59","00.01 - 03.00"}
 
 nextrandom = false
