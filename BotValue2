@@ -11,23 +11,23 @@ idVial = 8544
 
 DelayRecon = 60000
 DelayBadServer = 60000
-delayworld = 10000
+delayworld = 40000
 DurasiWorldPNB = 9999999
 
 delayht = 110
 delayplant = 130
-delaypnb = 180
+delaypnb = 170
 delayplace = 110
 
 delayrandomworld = 10000
-TakePickaxe = true
+TakePickaxe = false
 PrivatePNB = true
-TilePNB = 4
+TilePNB = 1
 
 targettrash = 150
 DontTrash = {}
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {"12.00 - 23.59","00.01 - 02.00"}
 
 nextrandom = false
