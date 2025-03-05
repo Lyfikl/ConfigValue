@@ -14,22 +14,22 @@ DelayBadServer = 90000
 delayworld = 5000
 DurasiWorldPNB = 9999999
 
-delayht = 90
-delayplant = 110
-delaypnb = 180
+delayht = 70
+delayplant = 90
+delaypnb = 190
 delayplace = 110
 
 delayrandomworld = 10000
 TakePickaxe = true
 PrivatePNB = true
-TilePNB = 4
+TilePNB = 5
 
 targettrash = 150
 DontTrash = {}
 
 RestSchedule = false
-JadwalOff = {"12.00 - 23.59","00.01 - 03.00"}
+JadwalOff = {"12.00 - 23.59","00.01 - 02.00"}
 
 nextrandom = false
-storagerandom = true
+storagerandom = false
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
