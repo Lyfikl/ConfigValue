@@ -23,7 +23,7 @@ delayrandomworld = 10000
 TakePickaxe = false
 PrivatePNB = true
 PutJammer = false
-TilePNB = 1
+TilePNB = 2
 
 targettrash = 150
 DontTrash = {}
