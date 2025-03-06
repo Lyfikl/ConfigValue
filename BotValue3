@@ -11,7 +11,7 @@ idVial = 8544
 
 DelayRecon = 60000
 DelayBadServer = 60000
-delayworld = 40000
+delayworld = 30000
 DurasiWorldPNB = 9999999
 
 delayht = 110
@@ -23,7 +23,7 @@ delayrandomworld = 10000
 TakePickaxe = false
 PrivatePNB = true
 PutJammer = false
-TilePNB = 4
+TilePNB = 1
 
 targettrash = 150
 DontTrash = {}
