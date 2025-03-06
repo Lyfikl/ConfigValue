@@ -29,7 +29,7 @@ targettrash = 150
 DontTrash = {}
 
 RestSchedule = false
-JadwalOff = {"12.00 - 23.59","00.01 - 02.00"}
+JadwalOff = {"00.01 - 03.00"}
 
 nextrandom = false
 storagerandom = true
