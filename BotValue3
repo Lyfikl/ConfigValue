@@ -14,10 +14,10 @@ DelayBadServer = 60000
 delayworld = 40000
 DurasiWorldPNB = 9999999
 
-delayht = 150
-delayplant = 170
-delaypnb = 170
-delayplace = 120
+delayht = 110
+delayplant = 130
+delaypnb = 180
+delayplace = 110
 
 delayrandomworld = 10000
 TakePickaxe = false
@@ -31,5 +31,5 @@ RestSchedule = false
 JadwalOff = {"12.00 - 23.59","00.01 - 02.00"}
 
 nextrandom = false
-storagerandom = false
+storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
