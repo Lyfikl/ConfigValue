@@ -1,8 +1,8 @@
 hargapack = 2000
 namapack = "world_lock"
 iditempack = {242}
-MinItemPack = 5
-maxbuy = 10
+MinItemPack = 1
+maxbuy = 1
 
 ShowSpecInfo = false
 SpecialItem = {}
@@ -32,5 +32,5 @@ RestSchedule = true
 JadwalOff = {"00.01 - 02.00"}
 
 nextrandom = false
-storagerandom = true
+storagerandom = false
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
