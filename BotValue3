@@ -21,11 +21,10 @@ delayplace = 110
 
 delayrandomworld = 10000
 TakePickaxe = false
-PrivatePNB = true
-PutJammer = false
 TilePNB = 3
 
-targettrash = 150
+PrivatePNB = true
+PutJammer = false
 DontTrash = {}
 
 RestSchedule = true
