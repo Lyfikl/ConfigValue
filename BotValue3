@@ -9,13 +9,13 @@ SpecialItem = {}
 minSpec = 80
 idVial = 8544
 
-DelayRecon = 90000
-DelayBadServer = 120000
+DelayRecon = 60000
+DelayBadServer = 90000
 delayworld = 30000
 DurasiWorldPNB = 9999999
 
-delayht = 110
-delayplant = 130
+delayht = 150
+delayplant = 170
 delaypnb = 180
 delayplace = 110
 
@@ -23,14 +23,14 @@ delayrandomworld = 10000
 TakePickaxe = false
 PrivatePNB = true
 PutJammer = false
-TilePNB = 2
+TilePNB = 3
 
 targettrash = 150
 DontTrash = {}
 
 RestSchedule = true
-JadwalOff = {"00.01 - 03.00"}
+JadwalOff = {"00.01 - 02.00"}
 
 nextrandom = false
-storagerandom = false
+storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
