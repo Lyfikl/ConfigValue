@@ -7,7 +7,7 @@ maxbuy = 1
 ShowSpecInfo = false
 SpecialItem = {}
 minSpec = 80
-idVial = 8544
+idVial = 8542
 
 DelayRecon = 60000
 DelayBadServer = 90000
