@@ -16,12 +16,12 @@ DurasiWorldPNB = 9999999
 
 delayht = 50
 delayplant = 70
-delaypnb = 190
+delaypnb = 180
 delayplace = 110
 
 delayrandomworld = 10000
 TakePickaxe = false
-TilePNB = 5
+TilePNB = 3
 
 PrivatePNB = true
 PutJammer = false
