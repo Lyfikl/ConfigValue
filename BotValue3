@@ -28,7 +28,7 @@ PutJammer = false
 DontTrash = {}
 
 RestSchedule = false
-JadwalOff = {"00.01 - 04.00"}
+JadwalOff = {"01.01 - 04.00"}
 
 nextrandom = false
 storagerandom = false
