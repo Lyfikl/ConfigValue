@@ -21,7 +21,7 @@ delayplace = 130
 
 delayrandomworld = 10000
 TakePickaxe = false
-TilePNB = 5
+TilePNB = 3
 
 PrivatePNB = true
 PutJammer = false
