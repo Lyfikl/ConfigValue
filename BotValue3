@@ -27,8 +27,8 @@ PrivatePNB = true
 PutJammer = true
 DontTrash = {}
 
-RestSchedule = false
-JadwalOff = {"01.01 - 04.00"}
+RestSchedule = true
+JadwalOff = {"01.01 - 03.00"}
 
 nextrandom = false
 storagerandom = true
