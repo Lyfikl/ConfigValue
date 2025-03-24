@@ -12,7 +12,7 @@ idVial = 8542
 DelayRecon = 120000
 DelayBadServer = 120000
 delayworld = 5000
-DurasiWorldPNB = 300
+DurasiWorldPNB = 360
 
 delayht = 110
 delayplant = 130
@@ -28,7 +28,7 @@ PutJammer = true
 DontTrash = {}
 
 RestSchedule = true
-JadwalOff = {"01.00 - 03.30"}
+JadwalOff = {"01.00 - 04.00"}
 
 nextrandom = false
 storagerandom = false
