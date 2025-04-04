@@ -1,7 +1,7 @@
-hargapack = 2000
-namapack = "world_lock"
-iditempack = {0,242}
-MinItemPack = 5
+hargapack = 20000
+namapack = "world_lock_10_pack"
+iditempack = {242}
+MinItemPack = 10
 maxbuy = 2
 
 ShowSpecInfo = false
@@ -11,24 +11,24 @@ idVial = 8542
 
 DelayRecon = 120000
 DelayBadServer = 120000
-delayworld = 5000
-DurasiWorldPNB = 180
+delayworld = 10000
+DurasiWorldPNB = 360
 
-delayht = 150
-delayplant = 150
+delayht = 110
+delayplant = 130
 delaypnb = 170
 delayplace = 110
 
 delayrandomworld = 10000
-TakePickaxe = true
-TilePNB = 2
+TakePickaxe = false
+TilePNB = 4
 
 PrivatePNB = true
-PutJammer = true
+PutJammer = false
 DontTrash = {}
 
-RestSchedule = true
-JadwalOff = {"13.00 - 15.30","01.00 - 03.30"}
+RestSchedule = false
+JadwalOff = {"01.00 - 03.30"}
 
 nextrandom = false
 storagerandom = false
