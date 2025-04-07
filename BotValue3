@@ -24,7 +24,7 @@ TakePickaxe = false
 TilePNB = 3
 
 PrivatePNB = true
-PutJammer = false
+PutJammer = true
 DontTrash = {}
 
 RestSchedule = true
