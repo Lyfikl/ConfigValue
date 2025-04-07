@@ -27,7 +27,7 @@ PrivatePNB = true
 PutJammer = true
 DontTrash = {}
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"15.00 - 23.00"}
 
 nextrandom = false
