@@ -30,5 +30,5 @@ RestSchedule = true
 JadwalOff = {"06.50 - 08.00","01.00 - 03.00"}
 
 nextrandom = false
-storagerandom = false
+storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
