@@ -1,18 +1,17 @@
-hargapack = 20000
-namapack = "world_lock_10_pack"
+hargapack = 2000
+namapack = "world_lock"
 iditempack = {242}
-MinItemPack = 10
+MinItemPack = 5
 maxbuy = 2
 
-ShowSpecInfo = false
 SpecialItem = {}
 minSpec = 100
 idVial = 8542
 
 DelayRecon = 30000
-DelayBadServer = 60000
+DelayBadServer = 120000
 delayworld = 5000
-DurasiWorldPNB = 360
+DurasiWorldPNB = 9999999
 
 delayht = 110
 delayplant = 130
@@ -27,7 +26,7 @@ PrivatePNB = true
 PutJammer = true
 DontTrash = {}
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"15.00 - 23.00","01.00 - 03.30"}
 
 nextrandom = false
