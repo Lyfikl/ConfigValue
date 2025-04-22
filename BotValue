@@ -11,7 +11,6 @@ idVial = 8542
 DelayRecon = 60000
 DelayBadServer = 120000
 delayworld = 5000
-delayrandomworld = 10000
 DurasiWorldPNB = 9999999
 
 delayht = 150
@@ -29,6 +28,7 @@ DontTrash = {}
 RestSchedule = true
 JadwalOff = {"06.50 - 08.00","01.00 - 03.00"}
 
+delayrandomworld = 10000
 nextrandom = false
 storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
