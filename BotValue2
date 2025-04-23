@@ -2,13 +2,13 @@ hargapack = 2000
 namapack = "world_lock"
 iditempack = {242}
 MinItemPack = 5
-maxbuy = 2
+maxbuy = 5
 
 SpecialItem = {}
 minSpec = 100
 idVial = 8542
 
-DelayRecon = 30000
+DelayRecon = 60000
 DelayBadServer = 120000
 delayworld = 5000
 DurasiWorldPNB = 9999999
@@ -18,7 +18,6 @@ delayplant = 150
 delaypnb = 175
 delayplace = 115
 
-delayrandomworld = 10000
 TakePickaxe = false
 TilePNB = 3
 
@@ -27,8 +26,9 @@ PutJammer = true
 DontTrash = {}
 
 RestSchedule = true
-JadwalOff = {"06.50 - 08.00","01.00 - 03.00"}
+JadwalOff = {"06.50 - 08.00","16.50 - 18.00","20.50 - 23.00","01.00 - 06.00"}
 
+delayrandomworld = 10000
 nextrandom = false
-storagerandom = false
+storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
