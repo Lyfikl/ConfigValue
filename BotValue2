@@ -26,7 +26,7 @@ PutJammer = true
 DontTrash = {}
 
 RestSchedule = false
-JadwalOff = {"06.30 - 08.00","10.50 - 12.00","16.00 - 20.00"}
+JadwalOff = {"01.00 - 03.00","06.30 - 08.00","16.00 - 20.00"}
 
 delayrandomworld = 10000
 nextrandom = false
