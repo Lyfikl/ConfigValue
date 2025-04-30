@@ -9,8 +9,8 @@ minSpec = 100
 idVial = 8542
 
 DelayRecon = 30000
-DelayBadServer = 120000
-delayworld = 10000
+DelayBadServer = 60000
+delayworld = 5000
 DurasiWorldPNB = 9999999
 
 delayht = 150
