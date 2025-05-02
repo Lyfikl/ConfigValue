@@ -30,5 +30,5 @@ JadwalOff = {"01.00 - 02.30","06.50 - 08.00","10.50 - 12.00","16.00 - 20.00","22
 
 delayrandomworld = 10000
 nextrandom = false
-storagerandom = false
+storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
