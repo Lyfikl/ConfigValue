@@ -1,6 +1,6 @@
 hargapack = 30000
 namapack = "pinata_value_pack_red"
-iditempack = {722,9616,13454}
+iditempack = {722,9616,15438}
 MinItemPack = 5
 maxbuy = 5
 
