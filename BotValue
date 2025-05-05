@@ -21,11 +21,11 @@ delayplace = 115
 TakePickaxe = false
 TilePNB = 3
 
-PrivatePNB = false
+PrivatePNB = true
 PutJammer = true
 DontTrash = {}
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"04.50 - 06.00","06.50 - 08.00","10.50 - 12.00","16.00 - 18.00","18.50 - 20.00","22.50 - 23.59"}
 
 delayrandomworld = 10000
