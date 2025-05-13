@@ -24,6 +24,7 @@ TilePNB = 3
 PrivatePNB = true
 PutJammer = true
 DontTrash = {}
+HW_Exit = true
 
 RestSchedule = true
 JadwalOff = {"02.00 - 03.00","06.50 - 08.00","11.50 - 13.00","15.00 - 18.00","00.00 - 01.00"}
