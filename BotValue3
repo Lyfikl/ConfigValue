@@ -26,7 +26,7 @@ PutJammer = true
 DontTrash = {}
 HW_Exit = true
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"02.00 - 03.00","06.50 - 08.00","11.50 - 13.00","15.00 - 22.00","00.00 - 01.00"}
 
 delayrandomworld = 10000
