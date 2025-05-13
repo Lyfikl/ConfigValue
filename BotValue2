@@ -26,7 +26,7 @@ PutJammer = true
 DontTrash = {}
 HW_Exit = true
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"06.50 - 08.00","12.00 - 13.00","14.50 - 18.00","22.50 - 23.59","00.00 - 03.00"}
 Mods_List = {"windyplay","kailyx"}
 
