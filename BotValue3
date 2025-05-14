@@ -26,7 +26,7 @@ PutJammer = true
 DontTrash = {}
 HW_Exit = true
 
-RestSchedule = tru
+RestSchedule = true
 JadwalOff = {"06.50 - 08.00","11.50 - 13.00","13.50 - 15.00","22.50 - 23.59"}
 Mods_List = {}
 
