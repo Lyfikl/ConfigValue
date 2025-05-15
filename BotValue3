@@ -27,7 +27,7 @@ DontTrash = {}
 HW_Exit = true
 
 RestSchedule = true
-JadwalOff = {"06.50 - 08.00","11.50 - 13.00","13.50 - 15.00","22.50 - 23.59"}
+JadwalOff = {"06.50 - 08.00","10.50 - 13.00","13.50 - 15.00","22.50 - 23.59"}
 Mods_List = {}
 
 delayrandomworld = 10000
