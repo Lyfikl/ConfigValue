@@ -26,9 +26,9 @@ PutJammer = true
 DontTrash = {}
 HW_Exit = true
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {"06.50 - 08.00","10.50 - 12.00","22.50 - 23.59","02.00 - 03.00",
-"12.40 - 13.00","13.40 - 14.00","14.40 - 15.00","15.40 - 16.00","16.40 - 17.00"}
+"13.40 - 14.00","14.40 - 15.00","15.40 - 16.00","16.40 - 17.00"}
 Mods_List = {"kailyx"}
 
 delayrandomworld = 10000
