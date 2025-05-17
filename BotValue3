@@ -1,7 +1,7 @@
-hargapack = 9999999
-namapack = "world_lock"
+hargapack = 20000
+namapack = "world_lock_10_pack"
 iditempack = {242}
-MinItemPack = 5
+MinItemPack = 10
 maxbuy = 10
 
 SpecialItem = {}
@@ -10,7 +10,7 @@ idVial = 8542
 
 DelayRecon = 60000
 DelayBadServer = 90000
-delayworld = 5000
+delayworld = 10000
 DurasiWorldPNB = 9999999
 
 delayht = 150
@@ -26,9 +26,10 @@ PutJammer = true
 DontTrash = {}
 HW_Exit = true
 
-RestSchedule = false
-JadwalOff = {"06.50 - 08.00","10.50 - 12.00","22.50 - 23.59","00.00 - 03.00"}
-Mods_List = {}
+RestSchedule = true
+JadwalOff = {"06.50 - 08.00","10.50 - 12.00","22.50 - 23.59","02.00 - 03.00",
+"13.40 - 14.05","14.40 - 15.05","15.40 - 16.05","16.40 - 17.05","17.40 - 18.05","18.40 - 19.05","19.40 - 20.05","20.40 - 21.05","21.40 - 22.05"
+Mods_List = {"kailyx"}
 
 delayrandomworld = 10000
 nextrandom = false
