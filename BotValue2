@@ -30,7 +30,7 @@ HW_Exit = true
 RestSchedule = true
 JadwalOff = {"06.50 - 08.00",
 "11.50 - 13.00","13.40 - 14.00","14.40 - 15.00","15.40 - 16.00","16.40 - 19.00"}
-Mods_List = {"kailyx","kailyx-undercover"}
+Mods_List = {"kailyx"}
 
 delayrandomworld = 10000
 nextrandom = false
