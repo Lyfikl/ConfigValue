@@ -17,7 +17,7 @@ DurasiWorldPNB = 9999999
 delayht = 190
 delayplant = 190
 delaypnb = 195
-delayplace = 135
+delayplace = 115
 
 TakePickaxe = false
 TilePNB = 3
