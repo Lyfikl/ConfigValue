@@ -8,15 +8,15 @@ SpecialItem = {}
 minSpec = 100
 idVial = 8542
 
-DelayRecon = 30000
-DelayBadServer = 30000
-delayworld = 5000
+DelayRecon = 60000
+DelayBadServer = 90000
+delayworld = 10000
 DurasiWorldPNB = 9999999
 
-delayht = 150
-delayplant = 150
+delayht = 180
+delayplant = 180
 delaypnb = 195
-delayplace = 115
+delayplace = 125
 
 TakePickaxe = false
 TilePNB = 3
