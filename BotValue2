@@ -39,7 +39,7 @@ JadwalOff = {
 "16.40 - 19.00",
 }
 
-Mods_List = {"kailyx","kailyx-undercove"}
+Mods_List = {"kailyx","kailyx-undercove","solabowe"}
 
 delayrandomworld = 10000
 nextrandom = false
