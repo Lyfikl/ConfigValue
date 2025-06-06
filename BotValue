@@ -24,7 +24,6 @@ TilePNB = 3
 PrivatePNB = true
 PutJammer = true
 DontTrash = {}
-HW_Exit = true
 
 RestSchedule = true
 JadwalOff = {
