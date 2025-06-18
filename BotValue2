@@ -19,7 +19,7 @@ delaypnb = 195
 delayplace = 125
 
 TakePickaxe = false
-TilePNB = 3
+TilePNB = 2
 
 PrivatePNB = true
 PutJammer = true
