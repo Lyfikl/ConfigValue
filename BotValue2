@@ -41,7 +41,7 @@ JadwalOff = {
 "23.30 - 23.59",
 }
 
-Mods_List = {}
+Mods_List = {"misthios"}
 
 delayrandomworld = 10000
 nextrandom = false
