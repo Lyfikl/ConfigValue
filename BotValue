@@ -2,7 +2,7 @@ hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
 MinItemPack = 10
-maxbuy = 10
+maxbuy = 1
 
 SpecialItem = {}
 minSpec = 100
@@ -27,19 +27,16 @@ DontTrash = {}
 
 RestSchedule = true
 JadwalOff = {
-"06.55 - 08.00",
-"12.00 - 13.00",
-"00.00 - 01.00",
+"06.50 - 08.00",
 
-"16.30 - 17.00",
-"17.30 - 18.00",
-"18.30 - 19.00",
-"19.30 - 20.00",
+"12.00 - 14.00",
+"22.00 - 23.00",
+"02.00 - 03.00",
 }
 
-Mods_List = {"misthio"}
+Mods_List = {}
 
 delayrandomworld = 10000
 nextrandom = false
-storagerandom = false
+storagerandom = true
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
