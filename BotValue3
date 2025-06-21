@@ -1,48 +1,41 @@
+
 hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
 MinItemPack = 10
-maxbuy = 10
+maxbuy = 1
 
 SpecialItem = {}
 minSpec = 100
 idVial = 8542
 
 DelayRecon = 60000
-DelayBadServer = 90000
-delayworld = 5000
+DelayBadServer = 60000
+delayworld = 10000
 DurasiWorldPNB = 9999999
 
 delayht = 150
 delayplant = 150
 delaypnb = 195
-delayplace = 125
+delayplace = 135
 
-TakePickaxe = false
+TakePickaxe = true
 TilePNB = 2
 
 PrivatePNB = true
 PutJammer = true
 DontTrash = {}
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {
 "06.50 - 08.00",
-"11.20 - 12.00",
-"19.20 - 20.00",
-"22.50 - 23.59",
+"12.00 - 13.00",
 
-"00.30 - 01.00",
-"02.20 - 03.30",
-
-"12.30 - 13.00",
-"16.30 - 18.30",
-
-"09.50 - 10.10",
-"21.50 - 22.10",
+"22.00 - 23.00",
+"00.00 - 03.00",
 }
 
-Mods_List = {"kailyx","kailyx-undercove","solabow"}
+Mods_List = {"misthio"}
 
 delayrandomworld = 10000
 nextrandom = false
