@@ -21,10 +21,6 @@ delayplace = 135
 TakePickaxe = true
 TilePNB = 2
 
-PrivatePNB = true
-PutJammer = true
-DontTrash = {}
-
 RestSchedule = true
 JadwalOff = {
 "06.50 - 08.00",
