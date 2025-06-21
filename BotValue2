@@ -45,5 +45,5 @@ Mods_List = {"misthio"}
 
 delayrandomworld = 10000
 nextrandom = false
-storagerandom = true
+storagerandom = false
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
