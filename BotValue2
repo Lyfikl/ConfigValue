@@ -1,3 +1,4 @@
+
 hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
@@ -13,35 +14,25 @@ DelayBadServer = 60000
 delayworld = 10000
 DurasiWorldPNB = 9999999
 
-delayht = 150
-delayplant = 150
+delayht = 180
+delayplant = 180
 delaypnb = 195
 delayplace = 135
 
 TakePickaxe = true
 TilePNB = 2
 
-PrivatePNB = true
-PutJammer = true
-DontTrash = {}
-
 RestSchedule = true
 JadwalOff = {
-"06.55 - 08.00",
-"12.00 - 13.00",
-"00.00 - 01.00",
+"06.50 - 08.00",
 
-"02.30 - 03.00",
-
-"16.30 - 17.00",
-"17.30 - 18.00",
-"18.30 - 19.00",
-"19.30 - 20.00",
-"22.30 - 23.00",
-"23.30 - 23.59",
+"12.00 - 14.00",
+"16.00 - 20.00",
+"22.00 - 23.00",
+"00.00 - 03.00",
 }
 
-Mods_List = {"misthio"}
+Mods_List = {}
 
 delayrandomworld = 10000
 nextrandom = false
