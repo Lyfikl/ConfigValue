@@ -17,7 +17,7 @@ delayplace = 135
 TakePickaxe = false
 TilePNB = 3
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {
 "12.30 - 13.00",
 "14.00 - 21.00",
