@@ -4,11 +4,7 @@ iditempack = {242}
 MinItemPack = 10
 maxbuy = 1
 
-SpecialItem = {}
-minSpec = 100
-idVial = 8542
-
-DelayRecon = 30000
+DelayRecon = 60000
 DelayBadServer = 60000
 delayworld = 10000
 DurasiWorldPNB = 9999999
@@ -21,17 +17,12 @@ delayplace = 135
 TakePickaxe = false
 TilePNB = 3
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {
-"06.50 - 08.00",
-
-"12.00 - 13.00",
-"16.30 - 20.00",
-"22.00 - 23.00",
-"02.00 - 03.00",
+"12.30 - 13.00",
+"14.00 - 21.00",
+"01.00 - 03.30",
 }
-
-Mods_List = {}
 
 delayrandomworld = 10000
 nextrandom = false
