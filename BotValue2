@@ -20,7 +20,7 @@ TilePNB = 3
 RestSchedule = true
 JadwalOff = {
 "14.00 - 21.00",
-"02.00 - 03.00",
+"01.00 - 03.30",
 }
 
 delayrandomworld = 10000
