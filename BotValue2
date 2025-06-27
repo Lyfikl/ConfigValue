@@ -19,6 +19,7 @@ TilePNB = 3
 
 RestSchedule = true
 JadwalOff = {
+"12.30 - 13.00",
 "14.00 - 21.00",
 "01.00 - 03.30",
 }
