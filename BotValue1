@@ -22,7 +22,8 @@ JadwalOff = {
 "14.00 - 22.00",
 
 "23.30 - 23.59",
-"00.30 - 04.00",
+"00.30 - 03.00",
+"04.00 - 04.30",
 }
 
 Mods_List = {"windypla","kaily","solabow"}
@@ -30,4 +31,4 @@ Mods_List = {"windypla","kaily","solabow"}
 delayrandomworld = 10000
 nextrandom = false
 storagerandom = false
-randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG"}
+randomworld = {}
