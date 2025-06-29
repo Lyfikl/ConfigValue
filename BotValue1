@@ -7,7 +7,6 @@ maxbuy = 1
 DelayRecon = 60000
 DelayBadServer = 60000
 delayworld = 15000
-DurasiWorldPNB = 9999999
 
 delayht = 150
 delayplant = 180
