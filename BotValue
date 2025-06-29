@@ -17,8 +17,8 @@ delayplace = 135
 TakePickaxe = false
 TilePNB = 3
 
-RestSchedule = false
-JadwalOff = {}
+RestSchedule = true
+JadwalOff = {"02.00 - 03.30",}
 
 delayrandomworld = 10000
 nextrandom = false
