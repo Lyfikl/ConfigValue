@@ -5,7 +5,7 @@ MinItemPack = 10
 maxbuy = 1
 
 DelayRecon = 60000
-DelayBadServer = 90000
+DelayBadServer = 60000
 delayworld = 10000
 DurasiWorldPNB = 9999999
 
