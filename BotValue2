@@ -24,6 +24,8 @@ JadwalOff = {
 "00.30 - 03.00",
 }
 
+Mods_List = {"windypla","kaily","solabow"}
+
 delayrandomworld = 10000
 nextrandom = false
 storagerandom = false
