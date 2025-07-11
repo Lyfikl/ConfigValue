@@ -1,7 +1,7 @@
-hargapack = 2000000
-namapack = "world_lock_10_pack"
-iditempack = {242}
-MinItemPack = 10
+hargapack = 20000
+namapack = "summer_pack"
+iditempack = {830,834,836,11044}
+MinItemPack = 1
 maxbuy = 1
 
 DelayRecon = 60000
