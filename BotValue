@@ -4,8 +4,8 @@ iditempack = {830,834,836,11044}
 MinItemPack = 1
 maxbuy = 1
 
-DelayRecon = 60000
-DelayBadServer = 60000
+DelayRecon = 120000
+DelayBadServer = 120000
 delayworld = 10000
 DurasiWorldPNB = 9999999
 
