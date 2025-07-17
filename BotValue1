@@ -1,6 +1,6 @@
 hargapack = 20000
 namapack = "summer_pack"
-iditempack = {830,834,836,11044}
+iditempack = {830,834,836,11044,12352}
 MinItemPack = 100
 maxbuy = 1
 
