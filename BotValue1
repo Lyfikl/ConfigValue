@@ -13,7 +13,7 @@ delayplant = 170
 delaypnb = 195
 delayplace = 135
 
-TakePickaxe = true
+TakePickaxe = false
 TilePNB = 3
 
 RestSchedule = true
