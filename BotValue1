@@ -16,10 +16,15 @@ delayplace = 135
 TakePickaxe = false
 TilePNB = 3
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {
-"12.30 - 14.15",
-"00.30 - 03.15",
+"06.50 - 07.15",
+"08.50 - 09.15",
+"10.50 - 11.15",
+
+"18.50 - 19.15",
+"20.50 - 21.15",
+"22.50 - 23.15",
 }
 
 Mods_List = {"solabow"}
