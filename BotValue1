@@ -14,7 +14,7 @@ delaypnb = 195
 delayplace = 135
 
 TakePickaxe = false
-TilePNB = 4
+TilePNB = 3
 
 RestSchedule = true
 JadwalOff = {
@@ -43,7 +43,7 @@ JadwalOff = {
 "04.50 - 05.15",
 "05.50 - 06.15",
 
-"07.50 - 09.20",
+"07.50 - 09.30",
 "19.50 - 21.30",
 }
 
