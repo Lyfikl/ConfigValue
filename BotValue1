@@ -8,9 +8,9 @@ DelayRecon = 60000
 DelayBadServer = 60000
 delayworld = 10000
 
-delayht = 150
-delayplant = 150
-delaypnb = 185
+delayht = 70
+delayplant = 90
+delaypnb = 195
 delayplace = 125
 
 TakePickaxe = false
