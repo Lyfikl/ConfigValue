@@ -14,7 +14,7 @@ delaypnb = 185
 delayplace = 125
 
 TakePickaxe = false
-TilePNB = 2
+TilePNB = 5
 
 RestSchedule = true
 JadwalOff = {
