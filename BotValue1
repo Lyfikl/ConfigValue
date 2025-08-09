@@ -10,7 +10,7 @@ delayworld = 10000
 
 delayht = 70
 delayplant = 90
-delaypnb = 185
+delaypnb = 195
 delayplace = 125
 
 TakePickaxe = false
