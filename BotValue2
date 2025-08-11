@@ -2,27 +2,37 @@ hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
 MinItemPack = 10
-maxbuy = 1
+maxbuy = 2
 
 DelayRecon = 60000
-DelayBadServer = 60000
-delayworld = 10000
+DelayBadServer = 120000
+delayworld = 5000
 
-delayht = 130
-delayplant = 150
+delayht = 110
+delayplant = 130
 delaypnb = 195
-delayplace = 135
+delayplace = 125
 
 TakePickaxe = false
 TilePNB = 3
 
 RestSchedule = true
 JadwalOff = {
-"08.50 - 09.15",
-"10.50 - 11.15",
-"18.30 - 21.30",
-"22.50 - 23.15",
-"00.50 - 04.15",
+"00.55 - 01.10",
+"02.55 - 03.10",
+"06.55 - 07.10",
+
+"08.30 - 09.10",
+
+"13.55 - 14.10",
+"14.55 - 15.10",
+"15.55 - 16.10",
+"16.55 - 17.10",
+"17.55 - 18.10",
+"18.55 - 19.10",
+"19.55 - 20.10",
+
+"20.30 - 21.10",
 }
 
 Mods_List = {}
