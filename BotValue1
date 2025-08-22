@@ -31,7 +31,7 @@ JadwalOff = {
 "04.50 - 05.10",
 }
 
-Mods_List = {}
+Mods_List = {"solabowe"}
 
 delayrandomworld = 10000
 nextrandom = false
