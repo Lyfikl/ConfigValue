@@ -2,16 +2,16 @@ hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
 MinItemPack = 10
-maxbuy = 1
+maxbuy = 2
 
-DelayRecon = 60000
-DelayBadServer = 60000
-delayworld = 10000
+DelayRecon = 20000
+DelayBadServer = 20000
+delayworld = 5000
 
-delayht = 150
-delayplant = 150
+delayht = 110
+delayplant = 130
 delaypnb = 195
-delayplace = 135
+delayplace = 125
 
 TakePickaxe = false
 TilePNB = 3
@@ -28,6 +28,8 @@ JadwalOff = {
 "07.55 - 08.10",
 "08.55 - 09.10",
 }
+
+Mods_List = {"solabow"}
 
 delayrandomworld = 10000
 nextrandom = false
