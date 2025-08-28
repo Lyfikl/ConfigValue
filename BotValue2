@@ -1,3 +1,4 @@
+
 hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
@@ -16,13 +17,13 @@ delayplace = 125
 TakePickaxe = false
 TilePNB = 3
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {
-"13.30 - 13.10",
-"14.30 - 13.10",
-"15.30 - 13.10",
-"16.30 - 17.10",
-"17.30 - 18.10",
+"12.55 - 13.10",
+"13.55 - 13.10",
+"14.55 - 13.10",
+"15.55 - 13.10",
+"16.55 - 17.10",
 
 "20.40 - 21.10",
 
