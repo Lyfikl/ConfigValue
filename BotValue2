@@ -7,7 +7,7 @@ maxbuy = 2
 
 DelayRecon = 120000
 DelayBadServer = 120000
-delayworld = 5000
+delayworld = 10000
 
 delayht = 110
 delayplant = 130
@@ -37,7 +37,7 @@ JadwalOff = {
 "08.40 - 09.10",
 }
 
-Mods_List = {"solabow"}
+Mods_List = {}
 
 delayrandomworld = 10000
 nextrandom = false
