@@ -15,6 +15,7 @@ delaypnb = 195
 delayplace = 135
 
 TakePickaxe = false
+PrivatePNB = true
 TilePNB = 3
 
 RestSchedule = true
