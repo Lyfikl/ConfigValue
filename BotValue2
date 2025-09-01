@@ -18,7 +18,7 @@ TakePickaxe = false
 PrivatePNB = true
 TilePNB = 5
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {
 "00.50 - 01.00",
 "01.50 - 02.00",
