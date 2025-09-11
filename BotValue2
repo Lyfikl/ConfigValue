@@ -5,6 +5,10 @@ iditempack = {242}
 MinItemPack = 10
 maxbuy = 1
 
+SpecialItem = {1828,1058,1094,1096,1098}
+minSpec = 100
+ID_AcuanDrop_Spec = 3004
+
 DelayRecon = 60000
 DelayBadServer = 60000
 delayworld = 5000
