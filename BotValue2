@@ -9,9 +9,9 @@ SpecialItem = {1828,1058,1094,1096,1098}
 minSpec = 30
 ID_AcuanDrop_Spec = 3004
 
-DelayRecon = 30000
-DelayBadServer = 30000
-delayworld = 5000
+DelayRecon = 60000
+DelayBadServer = 60000
+delayworld = 10000
 
 delayht = 200
 delayplant = 200
