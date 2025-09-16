@@ -24,7 +24,7 @@ TilePNB = 3
 
 RestSchedule = false
 JadwalOff = {
-"00.00 - 01.00",
+
 }
 
 Mods_List = {}
