@@ -12,24 +12,19 @@ DelayRecon = 60000
 DelayBadServer = 60000
 delayworld = 10000
 
-delayht = 150
-delayplant = 150
+delayht = 100
+delayplant = 100
 delaypnb = 200
 delayplace = 130
 
 TakePickaxe = false
-PrivatePNB = true
 TilePNB = 3
 
 RestSchedule = true
 JadwalOff = {
 "02.50 - 03.30",
 "10.50 - 11.30",
+"20.50 - 21.30",
 }
 
 Mods_List = {}
-
-delayrandomworld = 10000
-nextrandom = false
-storagerandom = false
-randomworld = {}
