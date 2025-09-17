@@ -22,9 +22,10 @@ TakePickaxe = false
 PrivatePNB = true
 TilePNB = 3
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {
-
+"02.50 - 03.30",
+"10.50 - 11.30",
 }
 
 Mods_List = {}
