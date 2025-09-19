@@ -4,7 +4,7 @@ iditempack = {242}
 MinItemPack = 10
 maxbuy = 1
 
-SpecialItem = {1828,1058,1094,1096,1098}
+SpecialItem = {}
 minSpec = 50
 ID_AcuanDrop_Spec = 3004
 
