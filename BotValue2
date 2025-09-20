@@ -21,7 +21,7 @@ TakePickaxe = false
 TilePNB = 3
 DynamicDelay = false
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {
 "06.50 - 07.05",
 "07.50 - 08.05",
