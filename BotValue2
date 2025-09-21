@@ -10,7 +10,7 @@ ID_AcuanDrop_Spec = 3004
 
 DelayRecon = 120000
 DelayBadServer = 120000
-delayworld = 10000
+delayworld = 15000
 
 delayht = 100
 delayplant = 100
