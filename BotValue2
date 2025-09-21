@@ -8,8 +8,8 @@ SpecialItem = {}
 minSpec = 50
 ID_AcuanDrop_Spec = 3004
 
-DelayRecon = 60000
-DelayBadServer = 60000
+DelayRecon = 120000
+DelayBadServer = 120000
 delayworld = 10000
 
 delayht = 100
