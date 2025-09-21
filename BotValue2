@@ -19,7 +19,7 @@ delayplace = 130
 
 TakePickaxe = false
 TilePNB = 3
-DynamicDelay = false
+DynamicDelay = true
 
 RestSchedule = false
 JadwalOff = {
