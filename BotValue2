@@ -4,22 +4,17 @@ iditempack = {242}
 MinItemPack = 10
 maxbuy = 1
 
-SpecialItem = {}
-minSpec = 50
-ID_AcuanDrop_Spec = 3004
-
 DelayRecon = 120000
 DelayBadServer = 120000
-delayworld = 15000
+delayworld = 20000
 
-delayht = 100
-delayplant = 100
+delayht = 300
+delayplant = 300
 delaypnb = 200
 delayplace = 130
 
-TakePickaxe = false
 TilePNB = 3
-DynamicDelay = true
+DynamicDelay = false
 
 RestSchedule = true
 JadwalOff = {
@@ -27,5 +22,3 @@ JadwalOff = {
 "07.00 - 08.00",
 "16.00 - 17.00",
 }
-
-Mods_List = {}
