@@ -18,7 +18,8 @@ DynamicDelay = false
 
 RestSchedule = true
 JadwalOff = {
-"03.00 - 04.00",
+"04.00 - 05.00",
 "07.00 - 08.00",
 "16.00 - 17.00",
+"19.00 - 20.00",
 }
