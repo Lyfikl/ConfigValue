@@ -4,8 +4,8 @@ iditempack = {242}
 MinItemPack = 10
 maxbuy = 1
 
-DelayRecon = 30000
-DelayBadServer = 30000
+DelayRecon = 15000
+DelayBadServer = 15000
 delayworld = 10000
 
 delayht = 70
