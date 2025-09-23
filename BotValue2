@@ -5,7 +5,7 @@ MinItemPack = 10
 maxbuy = 1
 
 DelayRecon = 120000
-DelayBadServer = 120000
+DelayBadServer = 150000
 delayworld = 10000
 
 delayht = 70
