@@ -14,7 +14,7 @@ delaypnb = 200
 delayplace = 130
 
 TilePNB = 3
-DynamicDelay = false
+DynamicDelay = true
 
 RestSchedule = false
 JadwalOff = {
