@@ -16,7 +16,7 @@ delayplace = 130
 TilePNB = 3
 DynamicDelay = true
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {
 "04.00 - 05.00",
 "07.00 - 08.00",
