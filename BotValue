@@ -9,10 +9,12 @@ DelayRecon = 20000
 DelayBadServer = 20000
 delayworld = 5000
 
-delayht = 150
-delayplant = 170
-delaypnb = 165
-delayplace = 115
+delayht = 200
+delayplant = 220
+delaypnb = 195
+delayplace = 125
+
+DynamicDelay = false
 
 TakePickaxe = true
 TilePNB = 1
