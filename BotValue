@@ -3,10 +3,10 @@ hargapack = 20000
 namapack = "world_lock_10_pack"
 iditempack = {242}
 MinItemPack = 10
-maxbuy = 2
+maxbuy = 1
 
-DelayRecon = 15000
-DelayBadServer = 15000
+DelayRecon = 20000
+DelayBadServer = 20000
 delayworld = 5000
 
 delayht = 150
