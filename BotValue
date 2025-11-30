@@ -21,7 +21,7 @@ PNBinFarm = false
 PrivatePNB = false
 TilePNB = 3
 
-RestSchedule = true
+RestSchedule = false
 JadwalOff = {
 "20.00 - 22.00",
 }
