@@ -18,6 +18,7 @@ DynamicDelay = false
 
 TakePickaxe = true
 PNBinFarm = false
+PrivatePNB = false
 TilePNB = 3
 
 RestSchedule = true
