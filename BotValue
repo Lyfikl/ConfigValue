@@ -17,7 +17,8 @@ delayplace = 125
 DynamicDelay = false
 
 TakePickaxe = true
-TilePNB = 1
+PNBinFarm = false
+TilePNB = 3
 
 RestSchedule = true
 JadwalOff = {
