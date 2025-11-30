@@ -14,7 +14,7 @@ delayplant = 200
 delaypnb = 195
 delayplace = 125
 
-DynamicDelay = true
+DynamicDelay = false
 
 TakePickaxe = true
 TilePNB = 1
