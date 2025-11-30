@@ -10,7 +10,7 @@ DelayBadServer = 20000
 delayworld = 5000
 
 delayht = 200
-delayplant = 220
+delayplant = 200
 delaypnb = 195
 delayplace = 125
 
