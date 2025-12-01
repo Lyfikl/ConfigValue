@@ -13,7 +13,7 @@ delayplant = 200
 delaypnb = 195
 delayplace = 145
 
-DynamicDelay = false
+DynamicDelay = true
 
 TakePickaxe = true
 PNBinFarm = false
