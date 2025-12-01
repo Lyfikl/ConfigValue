@@ -20,9 +20,9 @@ PNBinFarm = false
 PrivatePNB = false
 TilePNB = 5
 
-RestSchedule = false
+RestSchedule = true
 JadwalOff = {
-"20.00 - 22.00",
+"20.00 - 21.00",
 }
 
 Mods_List = {}
