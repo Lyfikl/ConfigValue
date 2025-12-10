@@ -8,8 +8,8 @@ DelayRecon = 15000
 DelayBadServer = 15000
 delayworld = 5000
 
-delayht = 150
-delayplant = 150
+delayht = 170
+delayplant = 180
 delaypnb = 210
 delayplace = 150
 
