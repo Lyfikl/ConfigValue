@@ -10,7 +10,7 @@ delayworld = 5000
 
 delayht = 180
 delayplant = 180
-delaypnb = 210
+delaypnb = 250
 delayplace = 150
 
 DynamicDelay = false
