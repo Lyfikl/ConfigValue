@@ -27,7 +27,7 @@ JadwalOff = {
 
 Mods_List = {}
 
-delayrandomworld = 5000
+delayrandomworld = 10000
 nextrandom = true
-storagerandom = true
+storagerandom = false
 randomworld = {"OMWUXDG","GCHVWZL","FQXUDWS","SZPGNIF","CJRAZNZ","UORBLDP","LQHSOVH","WOJBLQF","CLFFHVD","JYUYTMJ","KMUDFPO","YFNJCGG","AZXMCOF"}
